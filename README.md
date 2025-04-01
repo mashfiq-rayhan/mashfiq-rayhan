@@ -1,7 +1,10 @@
-## Hi there 👋
-I am Mashfiq Rayhan Ovi, I have studied in Bachelor of Science(Bsc) in Computer Science and Engineering from North South University, Dhaka, Bangladesh. During my Bsc I have done different kinds of subject related projects like Database , Data Science and Pattern Recognition etc.
+Software Engineer | Full-Stack Developer | Data Science Enthusiast
 
-My CSE majors are :
-* Internet and Web Technologies
-* Machine Learning
-* Pattern Recognition and Neural Network
+I am Mashfiq Rayhan Ovi, a Bachelor of Science (BSc) graduate in Computer Science and Engineering from North South University, Dhaka, Bangladesh. Throughout my academic journey, I have worked on a diverse range of projects, including software development, web applications, databases, data science, and pattern recognition.
+
+Majors & Areas of Expertise:
+✔ Internet and Web Technologies
+✔ Machine Learning
+✔ Pattern Recognition & Neural Networks
+
+I am passionate about full-stack development, cybersecurity, and data science, constantly exploring new technologies to enhance my skills. 🚀
