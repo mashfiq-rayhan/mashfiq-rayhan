@@ -52,6 +52,8 @@
 - ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat&logo=docker&logoColor=white) Automating workflows and deployments using Docker and CI/CD pipelines  
 - ![Security](https://img.shields.io/badge/Web-Security-ff69b4?style=flat&logo=owasp&logoColor=white) Continuously learning and integrating best practices in web security and performance
 
+---
+
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mashfiq-rayhan/)    |    [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mashfiq-rayhan)    |    [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mashfiq.rayhan.ovi@gmail.com)
