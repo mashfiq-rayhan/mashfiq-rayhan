@@ -3,24 +3,14 @@
 **Software Engineer | Full-Stack Developer | Data Science Enthusiast**
 
 🎓 I hold a **BSc in Computer Science & Engineering** from **North South University**, Dhaka, Bangladesh.  
-💻 I'm passionate about building scalable web applications and exploring the world of **data science** and **cybersecurity**. I enjoy solving complex problems, writing clean code, and learning new technologies every day.
+💻 I'm passionate about building scalable web applications and exploring the world of **Softwares** and **Data Science**. I enjoy solving complex problems, writing clean code, and learning new technologies every day.
 
 ---
 
-## 🔧 Areas of Focus
-
-- ⚙️ **Full-Stack Web Development** (Node.js, React.js, Next.js)
-- 🧠 **Data Science Enthusiast** (Learning ML, analytics, and automation)
-- 🧩 **System Design & Software Architecture**
-- 🌐 **Internet & Web Technologies**
-- 🔒 **Cybersecurity Learner**
-
----
-
-## University Majors :
-✔ Internet and Web Technologies
-✔ Machine Learning
-✔ Pattern Recognition & Neural Networks
+## 🎓 University Majors :
+- ✔ Internet and Web Technologies
+- ✔ Machine Learning
+- ✔ Pattern Recognition & Neural Networks
 
 ---
 
@@ -37,6 +27,14 @@
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 
 ---
+
+## 🔧 Areas of Focus
+
+- ⚙️ **Full-Stack Web Development** (Node.js, React.js, Next.js)
+- 🧠 **Data Science Enthusiast** (Learning ML, analytics, and automation)
+- 🧩 **System Design & Software Architecture**
+- 🌐 **Internet & Web Technologies**
+- 🔒 **Cybersecurity Learner**
 
 ---
 
