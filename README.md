@@ -18,7 +18,7 @@
 ![React](https://img.shields.io/badge/-React-61DAFB?style=flat-square&logo=react)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=flat-square&logo=next.js)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql)
-![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma)  
+![Prisma](https://img.shields.io/badge/-Prisma-2D3748?style=flat-square&logo=prisma)
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git)
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
@@ -30,17 +30,14 @@
 ### 🔧 Areas of Focus
 
 - ⚙️ **Full-Stack Web Development** (Node.js, React.js, Next.js)
-- 🧠 **Data Science Enthusiast** (Learning ML, analytics, and automation)
-- 🧩 **System Design & Software Architecture**
 - 🌐 **Internet & Web Technologies**
-- 🔒 **Cybersecurity Learner**
+- 🧩 **System Design & Software Architecture**
+- 🧠 **Data Science Enthusiast** (Learning ML, analytics, and automation)
 
 
 ### 📫 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mashfiq-rayhan/)  
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mashfiq-rayhan)  
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mashfiq.rayhan.ovi@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mashfiq-rayhan/) | [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mashfiq-rayhan) | [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mashfiq.rayhan.ovi@gmail.com)
 
 
 _“Build. Learn. Improve. Repeat.”_
