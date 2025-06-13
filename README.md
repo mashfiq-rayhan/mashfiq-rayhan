@@ -42,15 +42,17 @@
 
 ### 🔧 Areas of Focus
 
-- ⚙️ **Full-Stack Web Development** (Node.js, React.js, Next.js)
-- 🌐 **Internet & Web Technologies**
-- 🧩 **System Design & Software Architecture**
-- 🧠 **Data Science Enthusiast** (Learning ML, analytics, and automation)
-
+- ![Scalable](https://img.shields.io/badge/Scalable-WebApps-blue?style=flat&logo=webassembly) Building scalable and maintainable full-stack web applications using modern JavaScript frameworks  
+- ![API](https://img.shields.io/badge/RESTful-APIs-lightgrey?style=flat&logo=swagger&logoColor=black) Designing RESTful APIs and efficient backend services with Node.js and Express  
+- ![React](https://img.shields.io/badge/React-UI-61DAFB?style=flat&logo=react&logoColor=black) Developing rich, interactive user interfaces with React.js and Next.js  
+- ![Redux](https://img.shields.io/badge/State-Management-764ABC?style=flat&logo=redux&logoColor=white) Implementing state management solutions with Redux for complex frontends  
+- ![Database](https://img.shields.io/badge/Databases-PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) Optimizing database schemas and queries with PostgreSQL, MySQL, and MongoDB  
+- ![TDD](https://img.shields.io/badge/Test-Driven_Development-008080?style=flat&logo=testing-library&logoColor=white) Writing clean, testable code following TDD and Agile methodologies  
+- ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat&logo=docker&logoColor=white) Automating workflows and deployments using Docker and CI/CD pipelines  
+- ![Security](https://img.shields.io/badge/Web-Security-ff69b4?style=flat&logo=owasp&logoColor=white) Continuously learning and integrating best practices in web security and performance  
 
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mashfiq-rayhan/)    |    [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mashfiq-rayhan)    |    [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mashfiq.rayhan.ovi@gmail.com)
-
 
 _“Build. Learn. Improve. Repeat.”_
