@@ -54,7 +54,7 @@
 
 ### 👨‍💻 About Me
 
-I’m Mashfiq Rayhan Ovi, a passionate **Full Stack Developer** specializing in **JavaScript**, **Node.js**, and **React.js** with over 3 years of professional experience building scalable, high-performance web applications and APIs. Skilled in modern web technologies including **Next.js**, **TypeScript**, **Prisma**, and **PostgreSQL**, I focus on delivering clean, maintainable code following best practices such as **Test-Driven Development (TDD)** and **Agile** methodologies.
+I’m a passionate **Full Stack Developer** specializing in **JavaScript**, **Node.js**, and **React.js** with over 3 years of professional experience building scalable, high-performance web applications and APIs. Skilled in modern web technologies including **Next.js**, **TypeScript**, **Prisma**, and **PostgreSQL**, I focus on delivering clean, maintainable code following best practices such as **Test-Driven Development (TDD)** and **Agile** methodologies.
 
 My expertise spans both frontend and backend development — from crafting responsive, user-friendly interfaces with **React** and **Tailwind CSS** to designing robust backend systems using **Node.js** and **Express.js**. I am proficient in managing databases like **PostgreSQL**, **MySQL**, and **MongoDB**, and experienced in containerization with **Docker** and version control with **Git**.
 
