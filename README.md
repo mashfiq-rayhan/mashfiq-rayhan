@@ -1,8 +1,23 @@
-Software Engineer | Full-Stack Developer | Data Science Enthusiast
+# 👋 Hi, I'm Mashfiq Rayhan Ovi
 
-I am Mashfiq Rayhan Ovi, a Bachelor of Science (BSc) graduate in Computer Science and Engineering from North South University, Dhaka, Bangladesh. Throughout my academic journey, I have worked on a diverse range of projects, including software development, web applications, databases, data science, and pattern recognition.
+**Software Engineer | Full-Stack Developer | Data Science Enthusiast**
 
-Majors & Areas of Expertise:
+🎓 I hold a **BSc in Computer Science & Engineering** from **North South University**, Dhaka, Bangladesh.  
+💻 I'm passionate about building scalable web applications and exploring the world of **data science** and **cybersecurity**. I enjoy solving complex problems, writing clean code, and learning new technologies every day.
+
+---
+
+## 🔧 Areas of Focus
+
+- ⚙️ **Full-Stack Web Development** (Node.js, React.js, Next.js)
+- 🧠 **Data Science Enthusiast** (Learning ML, analytics, and automation)
+- 🧩 **System Design & Software Architecture**
+- 🌐 **Internet & Web Technologies**
+- 🔒 **Cybersecurity Learner**
+
+---
+
+## University Majors :
 ✔ Internet and Web Technologies
 ✔ Machine Learning
 ✔ Pattern Recognition & Neural Networks
@@ -22,5 +37,17 @@ Majors & Areas of Expertise:
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 
 ---
+
+---
+
+## 📫 Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mashfiq-rayhan/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mashfiq-rayhan)  
+[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mashfiq.rayhan.ovi@gmail.com)
+
+---
+
+_“Build. Learn. Improve. Repeat.”_
 
 I am passionate about full-stack development, cybersecurity, and data science, constantly exploring new technologies to enhance my skills. 🚀
