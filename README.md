@@ -1,18 +1,17 @@
-# 👋 Hi, I'm Mashfiq Rayhan Ovi
+## 👋 Hi, I'm Mashfiq Rayhan Ovi
 
 **Software Engineer | Full-Stack Developer | Data Science Enthusiast**
 
 🎓 I hold a **BSc in Computer Science & Engineering** from **North South University**, Dhaka, Bangladesh.  
 💻 I'm passionate about building scalable web applications and exploring the world of **Softwares** and **Data Science**. I enjoy solving complex problems, writing clean code, and learning new technologies every day.
 
-## 🎓 University Majors :
-- ✔ Internet and Web Technologies
-- ✔ Machine Learning
-- ✔ Pattern Recognition & Neural Networks
+### 🎓 University Majors :
+✔ Internet and Web Technologies
+✔ Machine Learning
+✔ Pattern Recognition & Neural Networks
 
----
 
-## 🚀 Tech Stack
+### 🚀 Tech Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=flat-square&logo=node.js)
@@ -24,9 +23,8 @@
 ![Tailwind CSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=flat-square&logo=tailwind-css)
 ![VS Code](https://img.shields.io/badge/-VSCode-007ACC?style=flat-square&logo=visual-studio-code)
 
----
 
-## 🔧 Areas of Focus
+### 🔧 Areas of Focus
 
 - ⚙️ **Full-Stack Web Development** (Node.js, React.js, Next.js)
 - 🧠 **Data Science Enthusiast** (Learning ML, analytics, and automation)
@@ -34,16 +32,12 @@
 - 🌐 **Internet & Web Technologies**
 - 🔒 **Cybersecurity Learner**
 
----
 
-## 📫 Connect with Me
+### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mashfiq-rayhan/)  
 [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mashfiq-rayhan)  
 [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mashfiq.rayhan.ovi@gmail.com)
 
----
 
 _“Build. Learn. Improve. Repeat.”_
-
-I am passionate about full-stack development, cybersecurity, and data science, constantly exploring new technologies to enhance my skills. 🚀
