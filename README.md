@@ -6,9 +6,9 @@
 💻 I'm passionate about building scalable web applications and exploring the world of **Softwares** and **Data Science**. I enjoy solving complex problems, writing clean code, and learning new technologies every day.
 
 ### 🎓 University Majors :
-✔ Internet and Web Technologies
-✔ Machine Learning
-✔ Pattern Recognition & Neural Networks
+✔ Internet and Web Technologies  
+✔ Machine Learning  
+✔ Pattern Recognition & Neural Networks  
 
 
 ### 🚀 Tech Stack
