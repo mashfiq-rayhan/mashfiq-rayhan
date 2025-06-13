@@ -52,18 +52,6 @@
 - ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat&logo=docker&logoColor=white) Automating workflows and deployments using Docker and CI/CD pipelines  
 - ![Security](https://img.shields.io/badge/Web-Security-ff69b4?style=flat&logo=owasp&logoColor=white) Continuously learning and integrating best practices in web security and performance
 
-### 👨‍💻 About Me
-
-I’m a passionate **Full Stack Developer** specializing in **JavaScript**, **Node.js**, and **React.js** with over 3 years of professional experience building scalable, high-performance web applications and APIs. Skilled in modern web technologies including **Next.js**, **TypeScript**, **Prisma**, and **PostgreSQL**, I focus on delivering clean, maintainable code following best practices such as **Test-Driven Development (TDD)** and **Agile** methodologies.
-
-My expertise spans both frontend and backend development — from crafting responsive, user-friendly interfaces with **React** and **Tailwind CSS** to designing robust backend systems using **Node.js** and **Express.js**. I am proficient in managing databases like **PostgreSQL**, **MySQL**, and **MongoDB**, and experienced in containerization with **Docker** and version control with **Git**.
-
-I’m dedicated to continuous learning and improvement, actively exploring **web security**, **performance optimization**, and modern DevOps practices. My goal is to contribute to innovative projects, collaborate on open-source initiatives, and solve complex problems by leveraging cutting-edge technologies.
-
-If you're interested in scalable web solutions, cloud-native architectures, or full-stack development, feel free to connect. I’m open to remote and hybrid opportunities where I can make an impact and grow alongside driven teams.
-
----
-
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mashfiq-rayhan/)    |    [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mashfiq-rayhan)    |    [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mashfiq.rayhan.ovi@gmail.com)
