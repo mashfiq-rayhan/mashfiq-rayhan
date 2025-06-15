@@ -69,3 +69,8 @@ _“Build. Learn. Improve. Repeat.”_
 
 ![Mashfiq's GitHub stats](https://github-readme-stats.vercel.app/api?username=mashfiq-rayhan&show_icons=true&theme=radical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashfiq-rayhan&layout=compact&theme=radical)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mashfiq-rayhan&theme=radical)
+
+
