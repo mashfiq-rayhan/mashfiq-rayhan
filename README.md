@@ -8,7 +8,17 @@
 ### 🎓 University Majors :
 ✔ Internet and Web Technologies  
 ✔ Machine Learning  
-✔ Pattern Recognition & Neural Networks  
+✔ Pattern Recognition & Neural Networks 
+
+### 🚀 Featured Projects
+
+- [Navigator - Mikrotik Router Manager](https://github.com/mashfiq-rayhan/navigator-mvp): Navigator MVP is a full-stack HotSpot management system designed for MikroTik routers.
+- [InfoSysCs-App](https://github.com/mashfiq-rayhan/InfoSysCs-App): InfoSysCS - Qualitative Data Analysis Assistant 
+- [Quadro-App](https://github.com/mashfiq-rayhan/Quadro-App): Quadro App is a modern SaaS platform designed to help businesses digitize their operations.
+- [CinePlex.live](https://github.com/mashfiq-rayhan/CinePlex.live): CinePlex.live is a web-based platform for streaming movies online.
+- [Memories-App](https://github.com/mashfiq-rayhan/Memories-App): Quadro App is a modern SaaS platform designed to help businesses digitize their operations.
+- [NodeJS](https://github.com/mashfiq-rayhan/NodeJS): My Journey with NOdeJS. This repository contains a comprehensive collection of Node.js and JavaScript projects, covering a wide range of backend development concepts and real-world applications. 
+---
 
 ### 🛠️ Key Skills
 
@@ -49,16 +59,6 @@
 - ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat&logo=docker&logoColor=white) Automating workflows and deployments using Docker and CI/CD pipelines  
 - ![Security](https://img.shields.io/badge/Web-Security-ff69b4?style=flat&logo=owasp&logoColor=white) Continuously learning and integrating best practices in web security and performance
 
----
-
-### 🚀 Featured Projects
-
-- [Navigator - Mikrotik Router Manager](https://github.com/mashfiq-rayhan/navigator-mvp): Navigator MVP is a full-stack HotSpot management system designed for MikroTik routers.
-- [InfoSysCs-App](https://github.com/mashfiq-rayhan/InfoSysCs-App): InfoSysCS - Qualitative Data Analysis Assistant 
-- [Quadro-App](https://github.com/mashfiq-rayhan/Quadro-App): Quadro App is a modern SaaS platform designed to help businesses digitize their operations.
-- [CinePlex.live](https://github.com/mashfiq-rayhan/CinePlex.live): CinePlex.live is a web-based platform for streaming movies online.
-- [Memories-App](https://github.com/mashfiq-rayhan/Memories-App): Quadro App is a modern SaaS platform designed to help businesses digitize their operations.
-- [NodeJS](https://github.com/mashfiq-rayhan/NodeJS): My Journey with NOdeJS. This repository contains a comprehensive collection of Node.js and JavaScript projects, covering a wide range of backend development concepts and real-world applications. 
 ---
 
 ### 📫 Connect with Me
