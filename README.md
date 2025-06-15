@@ -69,6 +69,7 @@ _“Build. Learn. Improve. Repeat.”_
 
 <!-- Top Langs without layout=compact (full width) -->
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mashfiq-rayhan&theme=radical&hide_title=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashfiq-rayhan&layout=compact&theme=radical)
 
 <!-- GitHub Streak - fix width using CSS hack inside a wrapper or use smaller theme-->
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mashfiq-rayhan&theme=radical)
