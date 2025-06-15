@@ -72,3 +72,18 @@ _“Build. Learn. Improve. Repeat.”_
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashfiq-rayhan&layout=compact&theme=radical)   ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mashfiq-rayhan&show_icons=true&theme=radical&hide_title=true)
 
 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mashfiq-rayhan&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mashfiq-rayhan&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mashfiq-rayhan&show_icons=true&theme=radical&hide_title=true&layout=compact)
+
+
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mashfiq-rayhan&theme=radical)
+
+
+### 📊 GitHub Stats
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mashfiq-rayhan&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mashfiq-rayhan&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mashfiq-rayhan&show_icons=true&theme=radical&hide_title=true&layout=compact)  
+
+![Contribution Graph](https://github-readme-activity-graph.cyclic.app/graph?username=mashfiq-rayhan&theme=radical)
