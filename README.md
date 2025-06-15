@@ -51,19 +51,21 @@
 
 ---
 
+### 🚀 Featured Projects
+
+- [Navigator - Mikrotik Router Manager](https://github.com/mashfiq-rayhan/navigator-mvp): Navigator MVP is a full-stack HotSpot management system designed for MikroTik routers.
+- [InfoSysCs-App](https://github.com/mashfiq-rayhan/InfoSysCs-App): InfoSysCS - Qualitative Data Analysis Assistant 
+- [Quadro-App](https://github.com/mashfiq-rayhan/Quadro-App): Quadro App is a modern SaaS platform designed to help businesses digitize their operations.
+- [CinePlex.live](https://github.com/mashfiq-rayhan/CinePlex.live): CinePlex.live is a web-based platform for streaming movies online.
+- [Memories-App](https://github.com/mashfiq-rayhan/Memories-App): Quadro App is a modern SaaS platform designed to help businesses digitize their operations.
+- [NodeJS](https://github.com/mashfiq-rayhan/NodeJS): My Journey with NOdeJS. This repository contains a comprehensive collection of Node.js and JavaScript projects, covering a wide range of backend development concepts and real-world applications. 
+---
+
 ### 📫 Connect with Me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mashfiq-rayhan/)    |    [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mashfiq-rayhan)    |    [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mashfiq.rayhan.ovi@gmail.com)
 
 _“Build. Learn. Improve. Repeat.”_
-
-### 🚀 Featured Projects
-
-- [Navigator - Mikrotik Router Manager](https://github.com/mashfiq-rayhan/navigator): Full-stack management system for Mikrotik Hotspot users built with Node.js, React, and PostgreSQL.  
-- [Portfolio Website](https://github.com/mashfiq-rayhan/portfolio): Responsive personal portfolio built with Next.js and Tailwind CSS.  
-- [REST API Boilerplate](https://github.com/mashfiq-rayhan/rest-api-boilerplate): Boilerplate for scalable RESTful APIs with Express.js, PostgreSQL, and JWT authentication.
-
----
 
 ### 📊 GitHub Stats
 
