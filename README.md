@@ -10,6 +10,8 @@
 ✔ Machine Learning  
 ✔ Pattern Recognition & Neural Networks 
 
+Javascript | Typescript | Node.js | Express.js | React.js | Next.js | PostgreSQL | MongoDB | MySQL | REST API | Web Development | Full Stack Development | API Integration
+
 ### 🚀 Featured Projects
 
 - [Navigator - Mikrotik Router Manager](https://github.com/mashfiq-rayhan/navigator-mvp): Navigator MVP is a full-stack HotSpot management system designed for MikroTik routers.
