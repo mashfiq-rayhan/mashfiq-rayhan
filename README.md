@@ -1,11 +1,11 @@
-## 👋 Hello, I'm Mashfiq Rayhan Ovi
+# 👋 Hello, I'm Mashfiq Rayhan Ovi
 
 **Software Engineer | Full-Stack Developer | Data Science Enthusiast**
 
 🎓 BSc in Computer Science & Engineering, North South University  
 💻 I'm passionate about building scalable web applications and exploring the world of **Software** and **Data Science**. I enjoy solving complex problems, writing clean code, and learning new technologies every day.
 
-### 🚀 Featured Projects
+## 🚀 Featured Projects
 
 - 🔌 [Navigator - Mikrotik Router Manager](https://github.com/mashfiq-rayhan/navigator-mvp): Navigator MVP is a full-stack HotSpot management system designed for MikroTik routers.
 - 🎬 [InfoSysCs-App](https://github.com/mashfiq-rayhan/InfoSysCs-App): InfoSysCS - Qualitative Data Analysis Assistant 
@@ -13,9 +13,8 @@
 - 🧠 [CinePlex.live](https://github.com/mashfiq-rayhan/CinePlex.live): CinePlex.live is a web-based platform for streaming movies online.
 - 📝 [Memories-App](https://github.com/mashfiq-rayhan/Memories-App): Memories is a full-stack MERN (MongoDB, Express, React, Node.js) application that allows users to create, view, update, like, and delete memorable posts.
 - 🕸 [NodeJS](https://github.com/mashfiq-rayhan/NodeJS): My Journey with NodeJS. This repository contains a comprehensive collection of Node.js and JavaScript projects, covering a wide range of backend development concepts and real-world applications. 
----
 
-### 🏆 Achievements
+## 🏆 Achievements
 
 - ✅ Delivered full-stack apps using **React**, **Next.js**, and **Node.js** with REST APIs.
 - 🔐 Implemented secure **JWT auth flows**, **role-based access**, and **form validations**.
@@ -24,9 +23,7 @@
 - 🐳 Containerized apps with **Docker**, automated CI/CD, and followed Agile practices.
 - 🎯 Contributed to modular, reusable component libraries for React apps.
 
----
-
-### 🛠️ Key Skills
+## 🛠️ Key Skills
 
 - **Languages:** 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
@@ -54,7 +51,7 @@
 ![TDD](https://img.shields.io/badge/TDD-008080?style=flat&logo=testing-library&logoColor=white)
 
 
-### 🔧 Areas of Focus
+## 🔧 Areas of Focus
 
 - ![Scalable](https://img.shields.io/badge/Scalable-WebApps-blue?style=flat&logo=webassembly) Building scalable and maintainable full-stack web applications using modern JavaScript frameworks  
 - ![API](https://img.shields.io/badge/RESTful-APIs-lightgrey?style=flat&logo=swagger&logoColor=black) Designing RESTful APIs and efficient backend services with Node.js and Express  
@@ -65,7 +62,6 @@
 - ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat&logo=docker&logoColor=white) Automating workflows and deployments using Docker and CI/CD pipelines  
 - ![Security](https://img.shields.io/badge/Web-Security-ff69b4?style=flat&logo=owasp&logoColor=white) Continuously learning and integrating best practices in web security and performance
 
----
 
 ## 📚 Education
 
