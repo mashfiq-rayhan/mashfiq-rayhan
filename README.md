@@ -5,6 +5,8 @@
 🎓 BSc in Computer Science & Engineering, North South University  
 💻 I'm passionate about building scalable web applications and exploring the world of **Software** and **Data Science**. I enjoy solving complex problems, writing clean code, and learning new technologies every day.
 
+---
+
 ## 🚀 Featured Projects
 
 - 🔌 [Navigator - Mikrotik Router Manager](https://github.com/mashfiq-rayhan/navigator-mvp): Navigator MVP is a full-stack HotSpot management system designed for MikroTik routers.
@@ -13,8 +15,6 @@
 - 🧠 [CinePlex.live](https://github.com/mashfiq-rayhan/CinePlex.live): CinePlex.live is a web-based platform for streaming movies online.
 - 📝 [Memories-App](https://github.com/mashfiq-rayhan/Memories-App): Memories is a full-stack MERN (MongoDB, Express, React, Node.js) application that allows users to create, view, update, like, and delete memorable posts.
 - 🕸 [NodeJS](https://github.com/mashfiq-rayhan/NodeJS): My Journey with NodeJS. This repository contains a comprehensive collection of Node.js and JavaScript projects, covering a wide range of backend development concepts and real-world applications. 
-
----
 
 ## 🏆 Achievements
 
@@ -53,8 +53,6 @@
 ![Agile](https://img.shields.io/badge/Agile-F05032?style=flat&logo=agile-innosoft&logoColor=white) |
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white) |
 ![TDD](https://img.shields.io/badge/TDD-008080?style=flat&logo=testing-library&logoColor=white)
-
----
 
 ## 🔧 Areas of Focus
 
