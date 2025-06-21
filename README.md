@@ -21,15 +21,6 @@
 ◼ 🌐 [ApexDV](https://github.com/mashfiq-rayhan/ApexDV): Modular startup landing page template for web3/dApp projects.  
 ◼ 🏪 [shop-app](https://github.com/mashfiq-rayhan/shop-app): Minimalistic eCommerce app using React and Redux.  
 ◼ 🍔 [BurgerBuilder](https://github.com/mashfiq-rayhan/BurgerBuilder): React-based burger customization and ordering app.  
-◼ 🧪 [JavaScript](https://github.com/mashfiq-rayhan/JavaScript): Practice projects and problem-solving with core JavaScript.  
-◼ 💡 [TypeScript](https://github.com/mashfiq-rayhan/TypeScript): Learning and applying TypeScript through small projects.  
-◼ 🕸 [NodeJS](https://github.com/mashfiq-rayhan/NodeJS): A curated collection of Node.js backend projects and experiments.  
-◼ ⚛️ [ReactJS](https://github.com/mashfiq-rayhan/ReactJS): Experiments and reusable components with the React framework.  
-◼ 🚀 [NextJS](https://github.com/mashfiq-rayhan/NextJS): SSR and full-stack apps using the Next.js framework.  
-◼ 🧬 [MERN](https://github.com/mashfiq-rayhan/MERN): Boilerplate and sample projects using the full MERN stack.  
-◼ 🗃 [SQL](https://github.com/mashfiq-rayhan/SQL): SQL query practice and schema design templates.  
-◼ 🔧 [git](https://github.com/mashfiq-rayhan/git): Notes and demos for Git version control workflows.  
-◼ 📦 [Docker](https://github.com/mashfiq-rayhan/Docker): Dockerfiles, containers, and deployment-ready setups.
 
 ## 🏆 Achievements
 
