@@ -14,6 +14,8 @@
 - 📝 [Memories-App](https://github.com/mashfiq-rayhan/Memories-App): Memories is a full-stack MERN (MongoDB, Express, React, Node.js) application that allows users to create, view, update, like, and delete memorable posts.
 - 🕸 [NodeJS](https://github.com/mashfiq-rayhan/NodeJS): My Journey with NodeJS. This repository contains a comprehensive collection of Node.js and JavaScript projects, covering a wide range of backend development concepts and real-world applications. 
 
+---
+
 ## 🏆 Achievements
 
 - ✅ Delivered full-stack apps using **React**, **Next.js**, and **Node.js** with REST APIs.
@@ -22,6 +24,8 @@
 - 🗃️ Designed scalable schemas with **PostgreSQL**, **MongoDB**, and **Prisma ORM**.
 - 🐳 Containerized apps with **Docker**, automated CI/CD, and followed Agile practices.
 - 🎯 Contributed to modular, reusable component libraries for React apps.
+
+---
 
 ## 🛠️ Key Skills
 
@@ -50,6 +54,7 @@
 ![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white) |
 ![TDD](https://img.shields.io/badge/TDD-008080?style=flat&logo=testing-library&logoColor=white)
 
+---
 
 ## 🔧 Areas of Focus
 
@@ -62,6 +67,7 @@
 - ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat&logo=docker&logoColor=white) Automating workflows and deployments using Docker and CI/CD pipelines  
 - ![Security](https://img.shields.io/badge/Web-Security-ff69b4?style=flat&logo=owasp&logoColor=white) Continuously learning and integrating best practices in web security and performance
 
+---
 
 ## 📚 Education
 
@@ -70,6 +76,7 @@
 ✔ Internet and Web Technologies  
 ✔ Machine Learning  
 ✔ Pattern Recognition & Neural Networks 
+
 ---
 
 > ### 📫 Connect with Me
