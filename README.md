@@ -5,11 +5,6 @@
 🎓 I hold a **BSc in Computer Science & Engineering** from **North South University**, Dhaka, Bangladesh.  
 💻 I'm passionate about building scalable web applications and exploring the world of **Softwares** and **Data Science**. I enjoy solving complex problems, writing clean code, and learning new technologies every day.
 
-### 🎓 University Majors :
-✔ Internet and Web Technologies  
-✔ Machine Learning  
-✔ Pattern Recognition & Neural Networks 
-
 ### 🚀 Featured Projects
 
 - 🔌 [Navigator - Mikrotik Router Manager](https://github.com/mashfiq-rayhan/navigator-mvp): Navigator MVP is a full-stack HotSpot management system designed for MikroTik routers.
@@ -70,6 +65,15 @@
 - ![Docker](https://img.shields.io/badge/Docker-Containerization-2496ED?style=flat&logo=docker&logoColor=white) Automating workflows and deployments using Docker and CI/CD pipelines  
 - ![Security](https://img.shields.io/badge/Web-Security-ff69b4?style=flat&logo=owasp&logoColor=white) Continuously learning and integrating best practices in web security and performance
 
+---
+
+## 📚 Education
+
+**North South University** — B.Sc. in CSE  
+- Focused on: 
+✔ Internet and Web Technologies  
+✔ Machine Learning  
+✔ Pattern Recognition & Neural Networks 
 ---
 
 > ### 📫 Connect with Me
