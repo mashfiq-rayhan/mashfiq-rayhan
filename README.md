@@ -3,7 +3,7 @@
 **Software Engineer | Full-Stack Developer | Data Science Enthusiast**
 
 🎓 BSc in Computer Science & Engineering, North South University  
-💻 I'm passionate about building scalable web applications and exploring the world of **Softwares** and **Data Science**. I enjoy solving complex problems, writing clean code, and learning new technologies every day.
+💻 I'm passionate about building scalable web applications and exploring the world of **Software** and **Data Science**. I enjoy solving complex problems, writing clean code, and learning new technologies every day.
 
 ### 🚀 Featured Projects
 
