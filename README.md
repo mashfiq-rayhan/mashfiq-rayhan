@@ -10,7 +10,7 @@
 ## 🚀 Featured Projects
 
 ◻ 🔌 [Navigator - Mikrotik Router Manager](https://github.com/mashfiq-rayhan/navigator-mvp): Navigator MVP is a full-stack HotSpot management system designed for MikroTik routers.  
-◻ 🎬 [InfoSysCs-App](https://github.com/mashfiq-rayhan/InfoSysCs-App): InfoSysCS - Qualitative Data Analysis Assistant.
+◻ 🎬 [InfoSysCs-App](https://github.com/mashfiq-rayhan/InfoSysCs-App): InfoSysCS - Qualitative Data Analysis Assistant.  
 ◻ 📊 [Quadro-App](https://github.com/mashfiq-rayhan/Quadro-App): Quadro App is a modern SaaS platform designed to help businesses digitize their operations.  
 ◻ 🧠 [CinePlex.live](https://github.com/mashfiq-rayhan/CinePlex.live): CinePlex.live is a web-based platform for streaming movies online.  
 ◻ 📝 [Memories-App](https://github.com/mashfiq-rayhan/Memories-App): Memories is a full-stack MERN (MongoDB, Express, React, Node.js) application that allows users to create, view, update, like, and delete memorable posts.  
