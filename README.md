@@ -70,7 +70,7 @@
 ## 📚 Education
 
 **North South University** — B.Sc. in CSE  
-- Focused on: 
+- Focused on:  
 ✔ Internet and Web Technologies  
 ✔ Machine Learning  
 ✔ Pattern Recognition & Neural Networks 
