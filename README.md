@@ -10,11 +10,26 @@
 ## 🚀 Featured Projects
 
 ◼ 🔌 [Navigator - Mikrotik Router Manager](https://github.com/mashfiq-rayhan/navigator-mvp): Navigator MVP is a full-stack HotSpot management system designed for MikroTik routers.  
-◼ 🎬 [InfoSysCs-App](https://github.com/mashfiq-rayhan/InfoSysCs-App): InfoSysCS - Qualitative Data Analysis Assistant.  
-◼ 📊 [Quadro-App](https://github.com/mashfiq-rayhan/Quadro-App): Quadro App is a modern SaaS platform designed to help businesses digitize their operations.  
-◼ 🧠 [CinePlex.live](https://github.com/mashfiq-rayhan/CinePlex.live): CinePlex.live is a web-based platform for streaming movies online.  
-◼ 📝 [Memories-App](https://github.com/mashfiq-rayhan/Memories-App): Memories a MERN app that allows users to create, view, update, like, and delete memorable posts.  
-◼ 🕸 [NodeJS](https://github.com/mashfiq-rayhan/NodeJS): My Journey with NodeJS. Curated Node.js project collection covering backend essentials.  
+◼ 🎬 [InfoSysCs-App](https://github.com/mashfiq-rayhan/InfoSysCs-App): InfoSysCS is a qualitative data analysis assistant for research workflows.  
+◼ 📊 [Quadro-App](https://github.com/mashfiq-rayhan/Quadro-App): Quadro is a modern SaaS platform to help businesses digitize operations.  
+◼ 🧠 [CinePlex.live](https://github.com/mashfiq-rayhan/CinePlex.live): CinePlex.live is a web-based movie streaming platform powered by TMDB API.  
+◼ 📡 [Mikronode](https://github.com/mashfiq-rayhan/Mikronode): Toolkit for interacting with MikroTik routers using API and RADIUS automation.  
+◼ 📝 [Memories-App](https://github.com/mashfiq-rayhan/Memories-App): A full-stack MERN app to create, like, and manage memorable posts.  
+◼ 🛒 [Dokan-demo](https://github.com/mashfiq-rayhan/Dokan-demo): Demo frontend for multi-vendor eCommerce platforms using Dokan-style architecture.  
+◼ 👥 [Apexdv-teams](https://github.com/mashfiq-rayhan/Apexdv-teams): Team and collaborator section for the Apexdv product suite.  
+◼ 🎨 [Apexdv-nft](https://github.com/mashfiq-rayhan/Apexdv-nft): UI for NFT minting in the Apexdv project ecosystem.  
+◼ 🌐 [ApexDV](https://github.com/mashfiq-rayhan/ApexDV): Modular startup landing page template for web3/dApp projects.  
+◼ 🏪 [shop-app](https://github.com/mashfiq-rayhan/shop-app): Minimalistic eCommerce app using React and Redux.  
+◼ 🍔 [BurgerBuilder](https://github.com/mashfiq-rayhan/BurgerBuilder): React-based burger customization and ordering app.  
+◼ 🧪 [JavaScript](https://github.com/mashfiq-rayhan/JavaScript): Practice projects and problem-solving with core JavaScript.  
+◼ 💡 [TypeScript](https://github.com/mashfiq-rayhan/TypeScript): Learning and applying TypeScript through small projects.  
+◼ 🕸 [NodeJS](https://github.com/mashfiq-rayhan/NodeJS): A curated collection of Node.js backend projects and experiments.  
+◼ ⚛️ [ReactJS](https://github.com/mashfiq-rayhan/ReactJS): Experiments and reusable components with the React framework.  
+◼ 🚀 [NextJS](https://github.com/mashfiq-rayhan/NextJS): SSR and full-stack apps using the Next.js framework.  
+◼ 🧬 [MERN](https://github.com/mashfiq-rayhan/MERN): Boilerplate and sample projects using the full MERN stack.  
+◼ 🗃 [SQL](https://github.com/mashfiq-rayhan/SQL): SQL query practice and schema design templates.  
+◼ 🔧 [git](https://github.com/mashfiq-rayhan/git): Notes and demos for Git version control workflows.  
+◼ 📦 [Docker](https://github.com/mashfiq-rayhan/Docker): Dockerfiles, containers, and deployment-ready setups.
 
 ## 🏆 Achievements
 
