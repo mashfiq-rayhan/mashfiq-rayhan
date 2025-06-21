@@ -12,12 +12,23 @@
 
 ### 🚀 Featured Projects
 
-- [Navigator - Mikrotik Router Manager](https://github.com/mashfiq-rayhan/navigator-mvp): Navigator MVP is a full-stack HotSpot management system designed for MikroTik routers.
-- [InfoSysCs-App](https://github.com/mashfiq-rayhan/InfoSysCs-App): InfoSysCS - Qualitative Data Analysis Assistant 
-- [Quadro-App](https://github.com/mashfiq-rayhan/Quadro-App): Quadro App is a modern SaaS platform designed to help businesses digitize their operations.
-- [CinePlex.live](https://github.com/mashfiq-rayhan/CinePlex.live): CinePlex.live is a web-based platform for streaming movies online.
-- [Memories-App](https://github.com/mashfiq-rayhan/Memories-App): Memories is a full-stack MERN (MongoDB, Express, React, Node.js) application that allows users to create, view, update, like, and delete memorable posts.
-- [NodeJS](https://github.com/mashfiq-rayhan/NodeJS): My Journey with NodeJS. This repository contains a comprehensive collection of Node.js and JavaScript projects, covering a wide range of backend development concepts and real-world applications. 
+- 🔌 [Navigator - Mikrotik Router Manager](https://github.com/mashfiq-rayhan/navigator-mvp): Navigator MVP is a full-stack HotSpot management system designed for MikroTik routers.
+- 🎬 [InfoSysCs-App](https://github.com/mashfiq-rayhan/InfoSysCs-App): InfoSysCS - Qualitative Data Analysis Assistant 
+- 📊 [Quadro-App](https://github.com/mashfiq-rayhan/Quadro-App): Quadro App is a modern SaaS platform designed to help businesses digitize their operations.
+- 🧠 [CinePlex.live](https://github.com/mashfiq-rayhan/CinePlex.live): CinePlex.live is a web-based platform for streaming movies online.
+- 📝 [Memories-App](https://github.com/mashfiq-rayhan/Memories-App): Memories is a full-stack MERN (MongoDB, Express, React, Node.js) application that allows users to create, view, update, like, and delete memorable posts.
+- 🕸 [NodeJS](https://github.com/mashfiq-rayhan/NodeJS): My Journey with NodeJS. This repository contains a comprehensive collection of Node.js and JavaScript projects, covering a wide range of backend development concepts and real-world applications. 
+---
+
+## 🏆 Achievements
+
+- ✅ Delivered full-stack apps using **React**, **Next.js**, and **Node.js** with REST APIs.
+- 🔐 Implemented secure **JWT auth flows**, **role-based access**, and **form validations**.
+- ⚡ Reduced load times by optimizing rendering and enabling caching in production.
+- 🗃️ Designed scalable schemas with **PostgreSQL**, **MongoDB**, and **Prisma ORM**.
+- 🐳 Containerized apps with **Docker**, automated CI/CD, and followed Agile practices.
+- 🎯 Contributed to modular, reusable component libraries for React apps.
+
 ---
 
 ### 🛠️ Key Skills
