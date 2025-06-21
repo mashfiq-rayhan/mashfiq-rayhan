@@ -13,7 +13,7 @@
 ◼ 🎬 [InfoSysCs-App](https://github.com/mashfiq-rayhan/InfoSysCs-App): InfoSysCS - Qualitative Data Analysis Assistant.  
 ◼ 📊 [Quadro-App](https://github.com/mashfiq-rayhan/Quadro-App): Quadro App is a modern SaaS platform designed to help businesses digitize their operations.  
 ◼ 🧠 [CinePlex.live](https://github.com/mashfiq-rayhan/CinePlex.live): CinePlex.live is a web-based platform for streaming movies online.  
-◼ 📝 [Memories-App](https://github.com/mashfiq-rayhan/Memories-App): Memories is a full-stack MERN application that allows users to create, view, update, like, and delete memorable posts.  
+◼ 📝 [Memories-App](https://github.com/mashfiq-rayhan/Memories-App): Memories a MERN app that allows users to create, view, update, like, and delete memorable posts.  
 ◼ 🕸 [NodeJS](https://github.com/mashfiq-rayhan/NodeJS): My Journey with NodeJS. Curated Node.js project collection covering backend essentials.  
 
 ## 🏆 Achievements
