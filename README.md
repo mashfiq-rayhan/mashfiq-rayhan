@@ -81,13 +81,7 @@
 ◼ Machine Learning  
 ◼ Pattern Recognition & Neural Networks 
 
----
 
-> ### 📫 Connect with Me
-
-> [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mashfiq-rayhan/)    |    [![Upwork](https://img.shields.io/badge/-Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/mashfiqrayhan)    |    [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mashfiq-rayhan)    |    [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mashfiq.rayhan.ovi@gmail.com)
-
----
 
 I’m always open to exciting opportunities and collaborations. If you’re looking for a driven engineer who loves to learn and build, let’s connect!
 
