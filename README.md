@@ -14,9 +14,9 @@
 ◼ 📊 [Quadro-App](https://github.com/mashfiq-rayhan/Quadro-App): Quadro is a modern SaaS platform to help businesses digitize operations.  
 ◼ 🧠 [CinePlex.live](https://github.com/mashfiq-rayhan/CinePlex.live): CinePlex.live is a web-based movie streaming platform powered by TMDB API.  
 ◼ 📡 [Mikronode](https://github.com/mashfiq-rayhan/Mikronode): Toolkit for interacting with MikroTik routers using API and RADIUS automation.  
+◼ 🌐 [ApexDV](https://github.com/mashfiq-rayhan/ApexDV): Modular startup landing page template for web3/dApp projects.  
 ◼ 📝 [Memories-App](https://github.com/mashfiq-rayhan/Memories-App): A full-stack MERN app to create, like, and manage memorable posts.  
 ◼ 🛒 [Dokan-demo](https://github.com/mashfiq-rayhan/Dokan-demo): Demo frontend for multi-vendor eCommerce platforms using Dokan-style architecture.  
-◼ 🌐 [ApexDV](https://github.com/mashfiq-rayhan/ApexDV): Modular startup landing page template for web3/dApp projects.  
 ◼ 🎨 [Apexdv-nft](https://github.com/mashfiq-rayhan/Apexdv-nft): UI for NFT minting in the Apexdv project ecosystem.  
 ◼ 🏪 [shop-app](https://github.com/mashfiq-rayhan/shop-app): Minimalistic eCommerce app using React and Redux.  
 ◼ 🍔 [BurgerBuilder](https://github.com/mashfiq-rayhan/BurgerBuilder): React-based burger customization and ordering app.  
