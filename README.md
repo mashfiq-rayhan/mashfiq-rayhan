@@ -94,6 +94,5 @@ I’m always open to exciting opportunities and collaborations. If you’re look
 
 ...
 ## 📊 Skill Distribution
-<img src="https://github.com/mashfiq-rayhan/extras/blob/master/chart.png?raw=true" alt="Skill Distribution" width="95%">
-// ![Skill Distribution](https://github.com/mashfiq-rayhan/extras/blob/master/chart.png?raw=true)
+<img src="https://github.com/mashfiq-rayhan/extras/blob/master/chart.png?raw=true" alt="Skill Distribution" width="100%">
 ...
