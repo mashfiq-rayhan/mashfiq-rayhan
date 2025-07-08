@@ -91,3 +91,10 @@
 I’m always open to exciting opportunities and collaborations. If you’re looking for a driven engineer who loves to learn and build, let’s connect!
 
 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+
+## 🏆 Achievements
+...
+## 📊 Skill Distribution
+![Skill Distribution](https://quickchart.io/chart/render/zm-08a5cc77-f801-43bd-9c94-027dabcd64bd?data1=15,15,15,10,15,10,10,10&labels=JavaScript,TypeScript,React,Next.js,Node.js,PostgreSQL,Git,Docker&backgroundColor=%2336A2EB,%23FF6384,%23FFCE56,%234BC0C0,%239966FF,%23FF9F40,%2366BB6A,%23AB47BC&title=Skill%20Distribution)
+## 🛠️ Key Skills
+...
