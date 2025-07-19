@@ -93,5 +93,3 @@ I’m always open to exciting opportunities and collaborations. If you’re look
 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 
 ---
-## 📊 Skill Distribution
-<img src="https://github.com/mashfiq-rayhan/extra/blob/master/chart.png?raw=true" alt="Skill Distribution" width="100%">
