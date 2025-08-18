@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Mashfiq Rayhan Ovi
+# 👋 Hello, I'm Mashfiq Rayhan
 
 **Software Engineer | Full-Stack Engineer | Data Science Enthusiast**
 
