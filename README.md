@@ -34,30 +34,53 @@
 
 ## 🛠️ Key Skills
 
-◼ **Languages:** 
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-  
+◼ **Data Structures & Algorithms:**
+![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-0A66C2?style=flat\&logo=leetcode\&logoColor=white)
+
+◼ **Languages:**
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black) |
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
+
+◼ **Frontend:**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat\&logo=react\&logoColor=black) |
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=next.js\&logoColor=white)
+
 ◼ **Backend:**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white) |
-![Express](https://img.shields.io/badge/Express.js-000000?style=flat&logo=express&logoColor=white)
-  
-◼ **Frontend:** 
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) |
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=next.js&logoColor=white)
-  
-◼ **Databases:** 
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat&logo=postgresql&logoColor=white) |
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white) |
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-  
-◼ **Tools & Methodologies:** 
-![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white) |
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white) |
-![REST API](https://img.shields.io/badge/REST_API-000000?style=flat&logo=rest&logoColor=white) |
-![Agile](https://img.shields.io/badge/Agile-F05032?style=flat&logo=agile-innosoft&logoColor=white) |
-![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat&logo=scrumalliance&logoColor=white) |
-![TDD](https://img.shields.io/badge/TDD-008080?style=flat&logo=testing-library&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white) |
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat\&logo=express\&logoColor=white)
+
+◼ **Databases:**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat\&logo=postgresql\&logoColor=white) |
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white) |
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
+
+◼ **ORM & ODM:**
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat\&logo=prisma\&logoColor=white) |
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat\&logo=sequelize\&logoColor=white) |
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat\&logo=mongoose\&logoColor=white)
+
+◼ **Tools:**
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white) |
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white) |
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+
+◼ **Other:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white) |
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat\&logo=tailwind-css\&logoColor=white) |
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat\&logo=react-router\&logoColor=white) |
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat\&logo=react-query\&logoColor=white)
+
+◼ **Methodologies:**
+![Agile](https://img.shields.io/badge/Agile-F05032?style=flat\&logo=scrumalliance\&logoColor=white) |
+![Scrum](https://img.shields.io/badge/Scrum-6DB33F?style=flat\&logo=scrumalliance\&logoColor=white) |
+![TDD](https://img.shields.io/badge/TDD-008080?style=flat\&logo=testing-library\&logoColor=white)
+
+◼ **Focus:**
+![REST API](https://img.shields.io/badge/REST_API-000000?style=flat\&logo=postman\&logoColor=white) |
+![Web Apps](https://img.shields.io/badge/Web_Apps-0A66C2?style=flat\&logo=webflow\&logoColor=white) |
+![Software Development](https://img.shields.io/badge/Software_Development-4B8BBE?style=flat\&logo=visualstudiocode\&logoColor=white) |
+![API Integration](https://img.shields.io/badge/API_Integration-FF6F00?style=flat\&logo=postman\&logoColor=white)
+
 
 ## 🔧 Areas of Focus
 
