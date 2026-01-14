@@ -1,6 +1,6 @@
 # 👋 Hello, I'm Mashfiq Rayhan Ovi
 
-**Software Engineer | Full-Stack Engineer | Data Science Enthusiast**
+**Software Engineer | Data Science Enthusiast**
 
 🎓 BSc in Computer Science & Engineering, North South University  
 💻 I'm passionate about building scalable web applications and exploring the world of **Software** and **Data Science**. I enjoy solving complex problems, writing clean code, and learning new technologies every day.
