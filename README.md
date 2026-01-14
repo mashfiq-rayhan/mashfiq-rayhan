@@ -115,4 +115,3 @@
 I’m always open to exciting opportunities and collaborations. If you’re looking for a driven engineer who loves to learn and build, let’s connect!
 
 ---
----
