@@ -53,7 +53,8 @@
 
 ◼ **Styling & UI:**
 ![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat&logo=tailwind-css&logoColor=blue) |
-![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=blue)
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=blue) |
+![NativeWind](https://img.shields.io/badge/NativeWind-000000?style=flat&logo=tailwind-css&logoColor=blue)
 
 ◼ **Databases:**
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=blue) |
