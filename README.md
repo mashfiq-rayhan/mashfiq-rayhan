@@ -68,6 +68,7 @@
 
 ◼ **State Management & Data Fetching:**
 ![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat&logo=zustand&logoColor=black) |
+![Redux](https://img.shields.io/badge/redux-000000?style=flat&logo=redux&logoColor=purple) |
 ![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=black) |
 ![Axios](https://img.shields.io/badge/Axios-5A29E7?style=flat&logo=axios&logoColor=black)
 
