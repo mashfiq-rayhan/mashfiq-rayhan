@@ -39,37 +39,49 @@
 ![DSA](https://img.shields.io/badge/Data_Structures_&_Algorithms-0A66C2?style=flat\&logo=leetcode\&logoColor=white)
 
 ◼ **Languages:**
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat\&logo=javascript\&logoColor=black) |
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat\&logo=typescript\&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=black)
 
-◼ **Frontend:**
-![React](https://img.shields.io/badge/React-61DAFB?style=flat\&logo=react\&logoColor=black) |
-![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat\&logo=next.js\&logoColor=white)
+◼ **Web:**
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) |
+![Next.js](https://img.shields.io/badge/Next.js-3d3d3d?style=flat&logo=next.js&logoColor=black)
 
-◼ **Backend:**
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=white) |
-![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat\&logo=express\&logoColor=white)
+◼ **Mobile / App:**
+![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black) |
+![Expo](https://img.shields.io/badge/Expo-3d3d3d?style=flat&logo=expo&logoColor=black) |
+![Expo Router](https://img.shields.io/badge/Expo_Router-ffffff?style=flat&logo=expo&logoColor=black)
+
+◼ **Styling & UI:**
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-000000?style=flat&logo=tailwind-css&logoColor=blue) |
+![shadcn/ui](https://img.shields.io/badge/shadcn%2Fui-000000?style=flat&logo=shadcnui&logoColor=blue)
 
 ◼ **Databases:**
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=flat\&logo=postgresql\&logoColor=white) |
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat\&logo=mysql\&logoColor=white) |
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat\&logo=mongodb\&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-000000?style=flat&logo=postgresql&logoColor=blue) |
+![MySQL](https://img.shields.io/badge/MySQL-3d3d3d?style=flat&logo=mysql&logoColor=blue) |
+![MongoDB](https://img.shields.io/badge/MongoDB-3d3d3d?style=flat&logo=mongodb&logoColor=green)
 
 ◼ **ORM & ODM:**
-![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat\&logo=prisma\&logoColor=white) |
-![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat\&logo=sequelize\&logoColor=white) |
-![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat\&logo=mongoose\&logoColor=white)
+![Prisma](https://img.shields.io/badge/Prisma-2D3748?style=flat&logo=prisma&logoColor=black) |
+![Sequelize](https://img.shields.io/badge/Sequelize-52B0E7?style=flat&logo=sequelize&logoColor=black) |
+![Mongoose](https://img.shields.io/badge/Mongoose-880000?style=flat&logo=mongoose&logoColor=black)
+
+◼ **State Management & Data Fetching:**
+![Zustand](https://img.shields.io/badge/Zustand-000000?style=flat&logo=zustand&logoColor=black) |
+![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat&logo=reactquery&logoColor=black) |
+![Axios](https://img.shields.io/badge/Axios-5A29E7?style=flat&logo=axios&logoColor=black)
+
+◼ **Forms & Validation:**
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=flat&logo=reacthookform&logoColor=black) |
+![Zod](https://img.shields.io/badge/Zod-3E67B1?style=flat&logo=zod&logoColor=black)
 
 ◼ **Tools:**
-![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=white) |
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=white) |
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=flat\&logo=git\&logoColor=black) |
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=black) |
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=black)
 
 ◼ **Other:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white) |
-![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat\&logo=tailwind-css\&logoColor=white) |
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat\&logo=react-router\&logoColor=white) |
-![TanStack Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=flat\&logo=react-query\&logoColor=white)
 
 ◼ **Methodologies:**
 ![Agile](https://img.shields.io/badge/Agile-F05032?style=flat\&logo=scrumalliance\&logoColor=white) |
