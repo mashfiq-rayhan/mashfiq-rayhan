@@ -42,11 +42,15 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black) |
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=black)
 
+◼ **Api:**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat\&logo=node.js\&logoColor=black) |
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat\&logo=express\&logoColor=white)
+
 ◼ **Web:**
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black) |
 ![Next.js](https://img.shields.io/badge/Next.js-3d3d3d?style=flat&logo=next.js&logoColor=black)
 
-◼ **Mobile / App:**
+◼ **App:**
 ![React Native](https://img.shields.io/badge/React_Native-61DAFB?style=flat&logo=react&logoColor=black) |
 ![Expo](https://img.shields.io/badge/Expo-3d3d3d?style=flat&logo=expo&logoColor=black) |
 ![Expo Router](https://img.shields.io/badge/Expo_Router-ffffff?style=flat&logo=expo&logoColor=black)
