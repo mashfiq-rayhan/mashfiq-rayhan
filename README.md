@@ -10,16 +10,16 @@
 
 ## 🚀 Featured Projects
 ◼ 🎼 [TrackPulse](https://github.com/mashfiq-rayhan/TrackPulse) : AI-powered Audio Intelligence to classify vocal vs. instrumental, detect language and flag explicit content.
-  -  🌐 [Live](https://trackpulse-ai.vercel.app/) : https://trackpulse-ai.vercel.app/  
+  -  🌐 Live : https://trackpulse-ai.vercel.app/  
 
 ◼ 🎬 [MediaKing](https://github.com/mashfiq-rayhan/media-king) : Media management and streaming-oriented web platform with modern UI.  
-  -  🌐 [Live](https://mediaking-llc.vercel.app/) : https://mediaking-llc.vercel.app/  
+  -  🌐 Live : https://mediaking-llc.vercel.app/  
 
 ◼ 🕸 [InfoSysCs-App](https://github.com/mashfiq-rayhan/InfoSysCs-App): InfoSysCS is a qualitative data analysis assistant for research workflows.
-  -  🌐 [Live](https://infosys-cs.vercel.app/) : https://infosys-cs.vercel.app/  
+  -  🌐 Live : https://infosys-cs.vercel.app/  
 
 ◼ 📟 [ApexDV](https://github.com/mashfiq-rayhan/ApexDV): Modular startup landing page template for web3/dApp projects.  
-  -  🌐 [Live](https://apex-dv.vercel.app/) : https://apex-dv.vercel.app/  
+  -  🌐 Live : https://apex-dv.vercel.app/  
 
 ◼ 🔌 [Navigator - Mikrotik Router Manager](https://github.com/mashfiq-rayhan/navigator-mvp): Navigator MVP is a full-stack HotSpot management system designed for MikroTik routers.  
 ◼ 📊 [Quadro-App](https://github.com/mashfiq-rayhan/Quadro-App): Quadro is a modern SaaS platform to help businesses digitize operations.  
