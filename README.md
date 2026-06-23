@@ -9,18 +9,23 @@
 ---
 
 ## 🚀 Featured Projects
+◼ 🎼 [TrackPulse](https://github.com/mashfiq-rayhan/TrackPulse) : AI-powered Audio Intelligence to classify vocal vs. instrumental, detect language and flag explicit content.
+  -  🌐 [Live](https://trackpulse-ai.vercel.app/) : https://trackpulse-ai.vercel.app/  
+
+◼ 🎬 [MediaKing](https://github.com/mashfiq-rayhan/media-king) : Media management and streaming-oriented web platform with modern UI.  
+  -  🌐 [Live](https://mediaking-llc.vercel.app/) : https://mediaking-llc.vercel.app/  
+
+◼ 🕸 [InfoSysCs-App](https://github.com/mashfiq-rayhan/InfoSysCs-App): InfoSysCS is a qualitative data analysis assistant for research workflows.
+  -  🌐 [Live](https://infosys-cs.vercel.app/) : https://infosys-cs.vercel.app/  
+
+◼ 📟 [ApexDV](https://github.com/mashfiq-rayhan/ApexDV): Modular startup landing page template for web3/dApp projects.  
+  -  🌐 [Live](https://apex-dv.vercel.app/) : https://apex-dv.vercel.app/  
 
 ◼ 🔌 [Navigator - Mikrotik Router Manager](https://github.com/mashfiq-rayhan/navigator-mvp): Navigator MVP is a full-stack HotSpot management system designed for MikroTik routers.  
-◼ 🕸 [InfoSysCs-App](https://github.com/mashfiq-rayhan/InfoSysCs-App): InfoSysCS is a qualitative data analysis assistant for research workflows.  
 ◼ 📊 [Quadro-App](https://github.com/mashfiq-rayhan/Quadro-App): Quadro is a modern SaaS platform to help businesses digitize operations.  
 ◼ 🎬 [CinePlex.live](https://github.com/mashfiq-rayhan/CinePlex.live): CinePlex.live is a web-based movie streaming platform powered by TMDB API.  
 ◼ 📡 [Mikronode](https://github.com/mashfiq-rayhan/Mikronode): Toolkit for interacting with MikroTik routers using API and RADIUS automation.  
-◼ 🌐 [ApexDV](https://github.com/mashfiq-rayhan/ApexDV): Modular startup landing page template for web3/dApp projects.  
-◼ 📝 [Memories-App](https://github.com/mashfiq-rayhan/Memories-App): A full-stack MERN app to create, like, and manage memorable posts.  
-◼ 🛒 [Dokan-demo](https://github.com/mashfiq-rayhan/Dokan-demo): Demo frontend for multi-vendor eCommerce platforms using Dokan-style architecture.  
-◼ 🎨 [Apexdv-nft](https://github.com/mashfiq-rayhan/Apexdv-nft): UI for NFT minting in the Apexdv project ecosystem.  
-◼ 🏪 [shop-app](https://github.com/mashfiq-rayhan/shop-app): Minimalistic eCommerce app using React and Redux.  
-◼ 🍔 [BurgerBuilder](https://github.com/mashfiq-rayhan/BurgerBuilder): React-based burger customization and ordering app.  
+◼ 📝 [Memories-App](https://github.com/mashfiq-rayhan/Memories-App): A full-stack MERN app to create, like, and manage memorable posts.   
 
 ## 🏆 Achievements
 
