@@ -90,6 +90,11 @@
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat\&logo=docker\&logoColor=black) |
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat\&logo=github\&logoColor=black)
 
+◼ **AI Tools:**
+![Claude](https://img.shields.io/badge/Claude-D97757?style=flat&logo=anthropic&logoColor=white) |
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=flat&logo=githubcopilot&logoColor=white) |
+![OpenAI Codex](https://img.shields.io/badge/OpenAI_Codex-412991?style=flat&logo=openai&logoColor=white)
+
 ◼ **Other:**
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat\&logo=python\&logoColor=white) |
 ![React Router](https://img.shields.io/badge/React_Router-CA4245?style=flat\&logo=react-router\&logoColor=white) |
