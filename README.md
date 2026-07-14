@@ -12,23 +12,23 @@
 ◼ 🎼 [TrackPulse](https://github.com/mashfiq-rayhan/TrackPulse) : AI-powered Audio Intelligence to classify vocal vs. instrumental, detect language and flag explicit content.
   -  🌐 Live : https://trackpulse-ai.vercel.app/  
 
-◼ 🕸 [InfoSysCs-App](https://github.com/mashfiq-rayhan/InfoSysCs-App): InfoSysCS is a qualitative data analysis assistant for research workflows.
+◼ 🕸 [InfoSysCs-App](https://github.com/mashfiq-rayhan/InfoSysCs-App) : InfoSysCS is a qualitative data analysis assistant for research workflows.
   -  🌐 Live : https://infosys-cs.vercel.app/
  
-◼ 💻 [Flex Engineers](https://github.com/mashfiq-rayhan/flex-engineers): Software studio concept site featuring interactive HUD-inspired UI and immersive 3D visuals.
+◼ 💻 [Flex Engineers](https://github.com/mashfiq-rayhan/flex-engineers) : Software studio concept site featuring interactive HUD-inspired UI and immersive 3D visuals.
   - 🌐 Live: https://flex-engineers.vercel.app/
 
 ◼ 🎬 [MediaKing](https://github.com/mashfiq-rayhan/media-king) : Media management and streaming-oriented web platform with modern UI.  
   -  🌐 Live : https://mediaking-llc.vercel.app/
 
-◼ 📟 [ApexDV](https://github.com/mashfiq-rayhan/ApexDV): Modular startup landing page template for web3/dApp projects.  
+◼ 📟 [ApexDV](https://github.com/mashfiq-rayhan/ApexDV) : Modular startup landing page template for web3/dApp projects.  
   -  🌐 Live : https://apex-dv.vercel.app/  
 
-◼ 🔌 [Navigator - Mikrotik Router Manager](https://github.com/mashfiq-rayhan/navigator-mvp): Navigator MVP is a full-stack HotSpot management system designed for MikroTik routers.  
-◼ 📊 [Quadro-App](https://github.com/mashfiq-rayhan/Quadro-App): Quadro is a modern SaaS platform to help businesses digitize operations.  
-◼ 🎬 [CinePlex.live](https://github.com/mashfiq-rayhan/CinePlex.live): CinePlex.live is a web-based movie streaming platform powered by TMDB API.  
-◼ 📡 [Mikronode](https://github.com/mashfiq-rayhan/Mikronode): Toolkit for interacting with MikroTik routers using API and RADIUS automation.  
-◼ 📝 [Memories-App](https://github.com/mashfiq-rayhan/Memories-App): A full-stack MERN app to create, like, and manage memorable posts.   
+◼ 🔌 [Navigator - Mikrotik Router Manager](https://github.com/mashfiq-rayhan/navigator-mvp) : Navigator MVP is a full-stack HotSpot management system designed for MikroTik routers.  
+◼ 📊 [Quadro-App](https://github.com/mashfiq-rayhan/Quadro-App) : Quadro is a modern SaaS platform to help businesses digitize operations.  
+◼ 🎬 [CinePlex.live](https://github.com/mashfiq-rayhan/CinePlex.live) : CinePlex.live is a web-based movie streaming platform powered by TMDB API.  
+◼ 📡 [Mikronode](https://github.com/mashfiq-rayhan/Mikronode) : Toolkit for interacting with MikroTik routers using API and RADIUS automation.  
+◼ 📝 [Memories-App](https://github.com/mashfiq-rayhan/Memories-App) : A full-stack MERN app to create, like, and manage memorable posts.   
 
 ## 🏆 Achievements
 
