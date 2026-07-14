@@ -12,11 +12,14 @@
 ◼ 🎼 [TrackPulse](https://github.com/mashfiq-rayhan/TrackPulse) : AI-powered Audio Intelligence to classify vocal vs. instrumental, detect language and flag explicit content.
   -  🌐 Live : https://trackpulse-ai.vercel.app/  
 
-◼ 🎬 [MediaKing](https://github.com/mashfiq-rayhan/media-king) : Media management and streaming-oriented web platform with modern UI.  
-  -  🌐 Live : https://mediaking-llc.vercel.app/  
-
 ◼ 🕸 [InfoSysCs-App](https://github.com/mashfiq-rayhan/InfoSysCs-App): InfoSysCS is a qualitative data analysis assistant for research workflows.
-  -  🌐 Live : https://infosys-cs.vercel.app/  
+  -  🌐 Live : https://infosys-cs.vercel.app/
+ 
+◼ 💻 [Flex Engineers](https://github.com/mashfiq-rayhan/flex-engineers): Software studio concept site featuring interactive HUD-inspired UI and immersive 3D visuals.
+  - 🌐 Live: https://flex-engineers.vercel.app/
+
+◼ 🎬 [MediaKing](https://github.com/mashfiq-rayhan/media-king) : Media management and streaming-oriented web platform with modern UI.  
+  -  🌐 Live : https://mediaking-llc.vercel.app/
 
 ◼ 📟 [ApexDV](https://github.com/mashfiq-rayhan/ApexDV): Modular startup landing page template for web3/dApp projects.  
   -  🌐 Live : https://apex-dv.vercel.app/  
