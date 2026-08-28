@@ -222,6 +222,7 @@ Creating interfaces that balance visual quality, interaction, accessibility and 
 | 🏗️ Scalable Backend Architecture |
 |    🔁 Intelligent Automation     |
 |    🛠️ Developer Productivity     |
+|                                  |
 
 ---
 
