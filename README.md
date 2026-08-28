@@ -173,10 +173,6 @@ A MERN application for creating, sharing, liking and managing memorable posts.
 
 ---
 
-> **I don't just build features — I build systems that solve problems and create measurable impact.**
-
----
-
 <div align="center">
   <h2>💡 Engineering Interests</h2>
   <p><em>Exploring the intersection of intelligent software, scalable systems and exceptional product experiences.</em></p>
