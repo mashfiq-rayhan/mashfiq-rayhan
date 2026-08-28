@@ -166,6 +166,8 @@ I focus on turning complex requirements into **reliable, scalable and measurable
 - 🏗️ Experience building **SaaS platforms, real-time interfaces, REST APIs and database-backed systems** designed for real-world usage.
 - 🧩 Strong focus on **maintainable architecture, reusable components, developer experience, performance and scalability**.
 
+---
+
 > **I don't just build features — I build systems that solve problems and create measurable impact.**
 
 ---
@@ -268,3 +270,5 @@ I focus on turning complex requirements into **reliable, scalable and measurable
 <blockquote align="center">
   <strong>Building useful software, solving difficult problems and turning ideas into working products.</strong>
 </blockquote>
+
+---
