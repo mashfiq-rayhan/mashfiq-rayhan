@@ -138,7 +138,7 @@ A MERN application for creating, sharing, liking and managing memorable posts.
 
 ---
 
-<blockquote align="left">
+<div align="left">
   <h2>🛠️ Core Stack</h2>
   <div align="left" style="padding-left: 330px;">
     <p><strong>Languages</strong>: TypeScript · JavaScript · Python</p>
@@ -149,11 +149,11 @@ A MERN application for creating, sharing, liking and managing memorable posts.
     <p><strong>AI</strong>: LLM APIs · Multimodal AI · AI Application Workflows</p>
     <p><strong>Infrastructure & Tools</strong>: Docker · Git · GitHub · CI/CD</p>
   </div>
-</blockquote>
+</div>
 
 ---
 
-<blockquote>
+<div>
 <div align="center">
   <h2>📈 Engineering Impact</h2>
   <p><em>I focus on turning complex requirements into <strong>reliable, scalable and measurable software systems</strong>.</em></p>
@@ -168,8 +168,8 @@ A MERN application for creating, sharing, liking and managing memorable posts.
 - 🏗️ Experience building **SaaS platforms, real-time interfaces, REST APIs and database-backed systems** designed for real-world usage.
 - 🧩 Strong focus on **maintainable architecture, reusable components, developer experience, performance and scalability**.
 
-**I don't just build features — I build systems that solve problems and create measurable impact.**
-</blockquote>
+> **I don't just build features — I build systems that solve problems and create measurable impact.**
+</div>
 
 ---
 
