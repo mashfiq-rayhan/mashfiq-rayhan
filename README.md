@@ -214,9 +214,14 @@ Creating interfaces that balance visual quality, interaction, accessibility and 
 
 ## 🔭 Currently Exploring
 
-| 🤖 AI-Native Products            | 🧠 Agentic Systems        | ⚡ Real-Time Applications |
-| -------------------------------- | ------------------------- | ------------------------- |
-| 🏗️ Scalable Backend Architecture | 🔁 Intelligent Automation | 🛠️ Developer Productivity |
+|       Currently Exploring        |
+| :------------------------------: |
+|      🤖 AI-Native Products       |
+|        🧠 Agentic Systems        |
+|    ⚡ Real-Time Applications     |
+| 🏗️ Scalable Backend Architecture |
+|    🔁 Intelligent Automation     |
+|    🛠️ Developer Productivity     |
 
 ---
 
