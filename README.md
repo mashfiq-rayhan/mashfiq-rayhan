@@ -121,35 +121,35 @@ A MERN application for creating, sharing, liking and managing memorable posts.
 
 ---
 
-## 🧠 What I Build
-
-- **Full-stack web applications**
-- **SaaS platforms**
-- **REST APIs & backend systems**
-- **AI/LLM-powered applications**
-- **Real-time & streaming applications**
-- **Third-party API integrations**
-- **Infrastructure & network integrations**
-- **Performance-focused interfaces**
-- **Scalable database-backed systems**
+<blockquote align="center">
+  <h2>🧠 What I Build</h2>
+  <ul align="left" style="padding-left: 380px;">
+    <li><strong>Full-stack web applications</strong></li>
+    <li><strong>SaaS platforms</strong></li>
+    <li><strong>REST APIs & backend systems</strong></li>
+    <li><strong>AI/LLM-powered applications</strong></li>
+    <li><strong>Real-time & streaming applications</strong></li>
+    <li><strong>Third-party API integrations</strong></li>
+    <li><strong>Infrastructure & network integrations</strong></li>
+    <li><strong>Performance-focused interfaces</strong></li>
+    <li><strong>Scalable database-backed systems</strong></li>
+  </ul>
+</blockquote>
 
 ---
 
-## 🛠️ Core Stack
-
-**Languages** : TypeScript · JavaScript · Python
-
-**Frontend** : React · Next.js · React Native · Expo · Tailwind CSS
-
-**Backend** : Node.js · Express.js · REST APIs
-
-**Databases** : PostgreSQL · MongoDB · MySQL
-
-**ORM / Data** : Prisma · Sequelize · Mongoose
-
-**AI** : LLM APIs · Multimodal AI · AI Application Workflows
-
-**Infrastructure & Tools** : Docker · Git · GitHub · CI/CD
+<blockquote align="center">
+  <h2>🛠️ Core Stack</h2>
+  <div align="left" style="padding-left: 330px;">
+    <p><strong>Languages</strong>: TypeScript · JavaScript · Python</p>
+    <p><strong>Frontend</strong>: React · Next.js · React Native · Expo · Tailwind CSS</p>
+    <p><strong>Backend</strong>: Node.js · Express.js · REST APIs</p>
+    <p><strong>Databases</strong>: PostgreSQL · MongoDB · MySQL</p>
+    <p><strong>ORM / Data</strong>: Prisma · Sequelize · Mongoose</p>
+    <p><strong>AI</strong>: LLM APIs · Multimodal AI · AI Application Workflows</p>
+    <p><strong>Infrastructure & Tools</strong>: Docker · Git · GitHub · CI/CD</p>
+  </div>
+</blockquote>
 
 ---
 
