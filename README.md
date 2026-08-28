@@ -35,7 +35,7 @@ A research workflow platform for document processing, thematic analysis, report 
  
  ---
 
-### 🛰️ [Flex Engineers — AI-powered qualitative research assistant](https://flex-engineers.vercel.app/)
+### 🛰️ [Flex Engineers — A Software Studio’s Mission Control, rendered with HUD/3D visuals](https://flex-engineers.vercel.app/)
 
 A research workflow platform for document processing, thematic analysis, report management and AI-assisted qualitative research.
 
