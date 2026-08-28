@@ -172,7 +172,7 @@ I focus on turning complex requirements into **reliable, scalable and measurable
 
 <div align="center">
   <h2>💡 Engineering Interests</h2>
-  <blockquote><em>Exploring the intersection of intelligent software, scalable systems and exceptional product experiences.</em></blockquote>
+  <p><em>Exploring the intersection of intelligent software, scalable systems and exceptional product experiences.</em></p>
 </div>
 
 <div align="center">
@@ -211,7 +211,10 @@ I focus on turning complex requirements into **reliable, scalable and measurable
   <p><font color="#949494">Creating interfaces that balance visual quality, interaction, accessibility and engineering performance.</font></p>
 </div>
 
-### 🔭 Currently Exploring
+---
+
+<blockquote align="center">
+  <h3>🔭 Currently Exploring</h3>
 
 <table>
   <tr>
@@ -235,18 +238,20 @@ I focus on turning complex requirements into **reliable, scalable and measurable
     </td>
   </tr>
 </table>
+</blockquote>
 
-<br/>
+---
 
-> ### ⚙️ Build → Measure → Learn → Improve
->
-> _Exploring new technologies, challenging assumptions and turning ideas into reliable software._
->
-> **Always learning. Always building. Always improving. 🚀**
+<blockquote align="center">
+<h3>⚙️ Build → Measure → Learn → Improve</h3>
+  <p><em>Exploring new technologies, challenging assumptions and turning ideas into reliable software.</em></p>
+  <p><strong>Always learning. Always building. Always improving. 🚀</strong></p>
+</blockquote>
 
-<br/>
+---
 
-<div align="center">
+<blockquote align="center">
+
   <h2>📫 Connect with Me</h2>
 
   <p>
@@ -256,10 +261,10 @@ I focus on turning complex requirements into **reliable, scalable and measurable
     <a href="https://github.com/mashfiq-rayhan"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
     <a href="mailto:mashfiq.rayhan.ovi@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
   </p>
-</div>
+</blockquote>
 
 ---
 
-<div align="center">
-  <blockquote><strong>Building useful software, solving difficult problems and turning ideas into working products.</strong></blockquote>
-</div>
+<blockquote align="center">
+  <strong>Building useful software, solving difficult problems and turning ideas into working products.</strong>
+</blockquote>
