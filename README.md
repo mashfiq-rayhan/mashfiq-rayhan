@@ -168,7 +168,7 @@ A MERN application for creating, sharing, liking and managing memorable posts.
 - 🏗️ Experience building **SaaS platforms, real-time interfaces, REST APIs and database-backed systems** designed for real-world usage.
 - 🧩 Strong focus on **maintainable architecture, reusable components, developer experience, performance and scalability**.
 
-> **I don't just build features — I build systems that solve problems and create measurable impact.**
+**I don't just build features — I build systems that solve problems and create measurable impact.**
 </blockquote>
 
 ---
