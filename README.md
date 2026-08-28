@@ -127,7 +127,7 @@ My work spans the full stack — from polished React/Next.js interfaces to APIs,
 
 ## 🧠 What I Build
 
-- **Full-stack web applications**
+- **`Full-stack web applications`**
 - **SaaS platforms**
 - **REST APIs & backend systems**
 - **AI/LLM-powered applications**
