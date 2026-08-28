@@ -121,7 +121,7 @@ A MERN application for creating, sharing, liking and managing memorable posts.
 
 ---
 
-<blockquote align="center">
+<blockquote align="left">
   <h2>🧠 What I Build</h2>
   <ul align="left" style="padding-left: 380px;">
     <li><strong>Full-stack web applications</strong></li>
@@ -138,7 +138,7 @@ A MERN application for creating, sharing, liking and managing memorable posts.
 
 ---
 
-<blockquote align="center">
+<blockquote align="left">
   <h2>🛠️ Core Stack</h2>
   <div align="left" style="padding-left: 330px;">
     <p><strong>Languages</strong>: TypeScript · JavaScript · Python</p>
