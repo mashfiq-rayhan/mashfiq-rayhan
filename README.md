@@ -9,19 +9,21 @@ My work spans the full stack — from polished React/Next.js interfaces to APIs,
 **5+ years of software engineering experience** building and shipping real-world products.
 
 ---
-> Have A Look at My Website : [https://mashfiq-rayhan-ovi.vercel.app/](https://mashfiq-rayhan-ovi.vercel.app/)
+
+> Have a look at My Website : https://mashfiq-rayhan-ovi.vercel.app/
+
 ---
 
 ## 🚀 Featured Projects
+
 ### 🎼 [TrackPulse — AI-powered audio intelligence platform](https://trackpulse-ai.vercel.app/)
 
 Analyze audio recordings with AI and receive structured insights through a real-time streaming interface.
 
 **Stack:** Next.js · React · TypeScript · Gemini · Streaming APIs · Audio Processing
 
-  -  🌐 Live : https://trackpulse-ai.vercel.app/  
-  -  ↗ GitHub : https://github.com/mashfiq-rayhan/TrackPulse (private)
-  -  ↗ Case Study : [https://github.com/mashfiq-rayhan/TrackPulse-case-study](https://github.com/mashfiq-rayhan/TrackPulse-case-study)
+- 🌐 Live : https://trackpulse-ai.vercel.app/
+- ↗ GitHub : https://github.com/mashfiq-rayhan/TrackPulse
 
 ---
 
@@ -31,20 +33,19 @@ A research workflow platform for document processing, thematic analysis, report 
 
 **Stack:** Next.js · React · TypeScript · Node.js · PostgreSQL · Prisma · AI/LLM APIs
 
-  -  🌐 Live : https://infosys-cs.vercel.app/  
-  -  ↗ GitHub : https://github.com/mashfiq-rayhan/InfoSysCs-App 
- 
- ---
+- 🌐 Live : https://infosys-cs.vercel.app/
+- ↗ GitHub : https://github.com/mashfiq-rayhan/InfoSysCs-App
 
-### 🛰️ [Flex Engineers — A Software Studio’s Mission Control](https://flex-engineers.vercel.app/)
+---
 
-An interactive software studio website designed as a mission-control experience, combining immersive UI, 3D elements, motion design, and modern frontend engineering to showcase a software engineering team.
+### 🛰️ [Flex Engineers — AI-powered qualitative research assistant](https://flex-engineers.vercel.app/)
 
-**Stack:** Next.js · React · TypeScript · Tailwind CSS · Framer Motion · React Three Fiber
+A research workflow platform for document processing, thematic analysis, report management and AI-assisted qualitative research.
 
-  -  🌐 Live : https://flex-engineers.vercel.app/
-  -  ↗ GitHub : https://github.com/mashfiq-rayhan/FlexEngineers-case-study (private)
-  -  ↗ Case Study : [https://github.com/mashfiq-rayhan/FlexEngineers-case-study](https://github.com/mashfiq-rayhan/FlexEngineers-case-study)
+**Stack:** Next.js · React · TypeScript · Node.js · PostgreSQL · Prisma · AI/LLM APIs
+
+- 🌐 Live : https://infosys-cs.vercel.app/
+- ↗ GitHub : https://github.com/mashfiq-rayhan/InfoSysCs-App
 
 ---
 
@@ -54,19 +55,18 @@ A full-stack HotSpot management system designed to manage MikroTik routers throu
 
 **Stack:** Next.js · React · TypeScript · Node.js · Express · PostgreSQL · MikroTik RouterOS
 
-  -  ↗ **GitHub:** https://github.com/mashfiq-rayhan/navigator-mvp
+- ↗ **GitHub:** https://github.com/mashfiq-rayhan/navigator-mvp
 
 ---
 
-### 🎬 [MediaKing — Media management & streaming platform](https://mediaking-llc.vercel.app/)
+### 🎬 [MediaKing — Media management & streaming platform](https://github.com/mashfiq-rayhan/media-king)
 
 A modern web platform focused on media management, content presentation and streaming-oriented experiences.
 
 **Stack:** Next.js · React · TypeScript · Tailwind CSS
 
-  -  🌐 **Live:** https://mediaking-llc.vercel.app/
-  -  ↗ **GitHub:** https://github.com/mashfiq-rayhan/media-king (private)
-  -  ↗ **Case Study:** [https://github.com/mashfiq-rayhan/FlexEngineers-case-study](https://github.com/mashfiq-rayhan/MediaKing-case-study)
+- 🌐 **Live:** https://mediaking-llc.vercel.app/
+- ↗ **GitHub:** https://github.com/mashfiq-rayhan/media-king
 
 ---
 
@@ -76,8 +76,8 @@ A modular, modern Company Web APP designed for Web3, blockchain and dApp-focused
 
 **Stack:** Next.js · React · TypeScript · Tailwind CSS · Framer Motion
 
-* 🌐 **Live:** https://apex-dv.vercel.app/
-* ↗ **GitHub:** https://github.com/mashfiq-rayhan/ApexDV
+- 🌐 **Live:** https://apex-dv.vercel.app/
+- ↗ **GitHub:** https://github.com/mashfiq-rayhan/ApexDV
 
 ---
 
@@ -87,7 +87,7 @@ A modern SaaS platform designed to help businesses digitize and streamline their
 
 **Stack:** Next.js · React · TypeScript · Node.js · PostgreSQL
 
-* ↗ **GitHub:** https://github.com/mashfiq-rayhan/Quadro-App
+- ↗ **GitHub:** https://github.com/mashfiq-rayhan/Quadro-App
 
 ---
 
@@ -97,7 +97,7 @@ A web-based movie discovery and streaming experience powered by the TMDB API.
 
 **Stack:** React · JavaScript · TMDB API · REST APIs
 
-* ↗ **GitHub:** https://github.com/mashfiq-rayhan/CinePlex.live
+- ↗ **GitHub:** https://github.com/mashfiq-rayhan/CinePlex.live
 
 ---
 
@@ -107,7 +107,7 @@ A developer toolkit for interacting with MikroTik routers through API integratio
 
 **Stack:** Node.js · JavaScript · MikroTik API · RADIUS
 
-* ↗ **GitHub:** https://github.com/mashfiq-rayhan/Mikronode
+- ↗ **GitHub:** https://github.com/mashfiq-rayhan/Mikronode
 
 ---
 
@@ -117,8 +117,8 @@ A MERN application for creating, sharing, liking and managing memorable posts.
 
 **Stack:** React · Node.js · Express.js · MongoDB
 
-* ↗ **GitHub:** https://github.com/mashfiq-rayhan/Memories-App
-   
+- ↗ **GitHub:** https://github.com/mashfiq-rayhan/Memories-App
+
 ---
 
 ## 🧠 What I Build
@@ -157,14 +157,14 @@ A MERN application for creating, sharing, liking and managing memorable posts.
 
 I focus on turning complex requirements into **reliable, scalable and measurable software systems**.
 
-* 📉 **50% reduction in operational overhead** by building and automating workflows for a MikroTik-based HotSpot management platform.
-* ⚡ **30% improvement in UI performance** through frontend optimization, rendering improvements and more efficient client-side workflows.
-* 🚀 **25% reduction in application load times** by optimizing application architecture, data fetching and resource delivery.
-* 🤖 **AI-powered workflows** for qualitative research, document analysis, thematic analysis and audio intelligence.
-* 🌐 **End-to-end product ownership** across frontend, backend, databases, APIs, authentication, integrations and deployment.
-* 🔌 **Infrastructure integration** connecting modern web applications with MikroTik RouterOS and network-management workflows.
-* 🏗️ Experience building **SaaS platforms, real-time interfaces, REST APIs and database-backed systems** designed for real-world usage.
-* 🧩 Strong focus on **maintainable architecture, reusable components, developer experience, performance and scalability**.
+- 📉 **50% reduction in operational overhead** by building and automating workflows for a MikroTik-based HotSpot management platform.
+- ⚡ **30% improvement in UI performance** through frontend optimization, rendering improvements and more efficient client-side workflows.
+- 🚀 **25% reduction in application load times** by optimizing application architecture, data fetching and resource delivery.
+- 🤖 **AI-powered workflows** for qualitative research, document analysis, thematic analysis and audio intelligence.
+- 🌐 **End-to-end product ownership** across frontend, backend, databases, APIs, authentication, integrations and deployment.
+- 🔌 **Infrastructure integration** connecting modern web applications with MikroTik RouterOS and network-management workflows.
+- 🏗️ Experience building **SaaS platforms, real-time interfaces, REST APIs and database-backed systems** designed for real-world usage.
+- 🧩 Strong focus on **maintainable architecture, reusable components, developer experience, performance and scalability**.
 
 > **I don't just build features — I build systems that solve problems and create measurable impact.**
 
@@ -172,75 +172,77 @@ I focus on turning complex requirements into **reliable, scalable and measurable
 
 ## 💡 Engineering Interests
 
-> *Exploring the intersection of intelligent software, scalable systems and exceptional product experiences.*
+> _Exploring the intersection of intelligent software, scalable systems and exceptional product experiences._
 
-<table>
-  <tr>
-    <td>
-      <h3>🤖 AI & Intelligent Systems</h3>
-      <code>LLM Applications</code> · <code>AI Workflows</code> · <code>Multimodal AI</code> · <code>AI Agents</code>
+<div>
+<table align="center" width="100%" cellpadding="0" cellspacing="0" style="display: table; width: 100%; table-layout: fixed;">
+  <tr height="180">
+    <td align="center" width="100%" height="180" valign="middle"><div align="center" style="display: flex; min-height: 180px; flex-direction: column; justify-content: center; align-items: center;">
+      <h2>🤖 AI & Intelligent Systems</h2>
+      <div align="center"><code>LLM Applications</code> · <code>AI Workflows</code> · <code>Multimodal AI</code> · <code>AI Agents</code></div>
       <br/>
-      <sub>Building AI-native products where intelligence is embedded directly into the workflow — not simply added as an API feature.</sub>
+      <sub style="font-size: 0.95em;">Building AI-native products where intelligence is embedded directly into the workflow — not simply added as an API feature.</sub>
       <br/>
       <br/>
-    </td>
+    </div></td>
   </tr>
 
-  <tr>
-    <td>
-      <h3>🏗️ System Architecture & Scalability</h3>
-      <code>System Design</code> · <code>API Architecture</code> · <code>Distributed Systems</code> · <code>Scalability</code>
+  <tr height="180">
+    <td align="center" height="180" valign="middle"><div align="center" style="display: flex; min-height: 180px; flex-direction: column; justify-content: center; align-items: center;">
+      <h2>🏗️ System Architecture & Scalability</h2>
+      <div align="center"><code>System Design</code> · <code>API Architecture</code> · <code>Distributed Systems</code> · <code>Scalability</code></div>
       <br/>
-      <sub>Designing maintainable systems that can evolve with growing users, data and product complexity.</sub>
+      <sub style="font-size: 0.95em;">Designing maintainable systems that can evolve with growing users, data and product complexity.</sub>
       <br/>
       <br/>
-    </td>
+    </div></td>
   </tr>
 
-  <tr>
-    <td>
-      <h3>🚀 SaaS & Product Engineering</h3>
-      <code>SaaS</code> · <code>Automation</code> · <code>Multi-Tenant Systems</code> · <code>Product Engineering</code>
+  <tr height="180">
+    <td align="center" height="180" valign="middle"><div align="center" style="display: flex; min-height: 180px; flex-direction: column; justify-content: center; align-items: center;">
+      <h2>🚀 SaaS & Product Engineering</h2>
+      <div align="center"><code>SaaS</code> · <code>Automation</code> · <code>Multi-Tenant Systems</code> · <code>Product Engineering</code></div>
       <br/>
-      <sub>Turning ideas and business requirements into reliable, production-ready products that solve real problems.</sub>
+      <sub style="font-size: 0.95em;">Turning ideas and business requirements into reliable, production-ready products that solve real problems.</sub>
       <br/>
       <br/>
-    </td>
+    </div></td>
   </tr>
 
-  <tr>
-    <td>
-      <h3>⚡ Performance & Reliability</h3>
-      <code>Web Performance</code> · <code>Optimization</code> · <code>Reliability</code> · <code>Developer Experience</code>
+  <tr height="180">
+    <td align="center" height="180" valign="middle"><div align="center" style="display: flex; min-height: 180px; flex-direction: column; justify-content: center; align-items: center;">
+      <h2>⚡ Performance & Reliability</h2>
+      <div align="center"><code>Web Performance</code> · <code>Optimization</code> · <code>Reliability</code> · <code>Developer Experience</code></div>
       <br/>
-      <sub>Improving speed, efficiency, resilience and the overall experience of both users and developers.</sub>
+      <sub style="font-size: 0.95em;">Improving speed, efficiency, resilience and the overall experience of both users and developers.</sub>
       <br/>
       <br/>
-    </td>
+    </div></td>
   </tr>
 
-  <tr>
-    <td>
-      <h3>🔌 Infrastructure & Integrations</h3>
-      <code>Infrastructure APIs</code> · <code>Network Systems</code> · <code>Automation</code> · <code>Third-Party Integrations</code>
+  <tr height="180">
+    <td align="center" height="180" valign="middle"><div align="center" style="display: flex; min-height: 180px; flex-direction: column; justify-content: center; align-items: center;">
+      <h2>🔌 Infrastructure & Integrations</h2>
+      <div align="center"><code>Infrastructure APIs</code> · <code>Network Systems</code> · <code>Automation</code> · <code>Third-Party Integrations</code></div>
       <br/>
-      <sub>Connecting modern applications with infrastructure, external services and real-world systems.</sub>
+      <sub style="font-size: 0.95em;">Connecting modern applications with infrastructure, external services and real-world systems.</sub>
       <br/>
       <br/>
-    </td>
+    </div></td>
   </tr>
 
-  <tr>
-    <td>
-      <h3>🎨 Frontend & Experience Engineering</h3>
-      <code>React</code> · <code>Next.js</code> · <code>UX Engineering</code> · <code>Interactive Interfaces</code>
+  <tr height="180">
+    <td align="center" height="180" valign="middle"><div align="center" style="display: flex; min-height: 180px; flex-direction: column; justify-content: center; align-items: center;">
+      <h2>🎨 Frontend & Experience Engineering</h2>
+      <div align="center"><code>React</code> · <code>Next.js</code> · <code>UX Engineering</code> · <code>Interactive Interfaces</code></div>
       <br/>
-      <sub>Creating interfaces that balance visual quality, interaction, accessibility and engineering performance.</sub>
+      <sub style="font-size: 0.95em;">Creating interfaces that balance visual quality, interaction, accessibility and engineering performance.</sub>
       <br/>
       <br/>
-    </td>
+    </div></td>
   </tr>
 </table>
+</div>
 
 ### 🔭 Currently Exploring
 
@@ -271,18 +273,15 @@ I focus on turning complex requirements into **reliable, scalable and measurable
 
 > ### ⚙️ Build → Measure → Learn → Improve
 >
-> *Exploring new technologies, challenging assumptions and turning ideas into reliable software.*  
+> _Exploring new technologies, challenging assumptions and turning ideas into reliable software._
 >
 > **Always learning. Always building. Always improving. 🚀**
 
 <br/>
 
-
-
-
 ## 📫 Connect with Me
 
-> [![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://mashfiq-rayhan-ovi.vercel.app/)    |    [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mashfiq-rayhan/)    |    [![Upwork](https://img.shields.io/badge/-Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/mashfiqrayhan)    |    [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mashfiq-rayhan)    |    [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mashfiq.rayhan.ovi@gmail.com)
+> [![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://mashfiq-rayhan-ovi.vercel.app/) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mashfiq-rayhan/) | [![Upwork](https://img.shields.io/badge/-Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/mashfiqrayhan) | [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mashfiq-rayhan) | [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mashfiq.rayhan.ovi@gmail.com)
 
 ---
 
