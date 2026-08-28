@@ -28,7 +28,7 @@ Analyze audio recordings with AI and receive structured insights through a real-
 
 ---
 
-### 🧠 [InfoSysCS — AI-powered qualitative research assistant](https://infosys-cs.vercel.app/)
+### 🔬 [InfoSysCS — AI-powered qualitative research assistant](https://infosys-cs.vercel.app/)
 
 A research workflow platform for document processing, thematic analysis, report management and AI-assisted qualitative research.
 
@@ -52,7 +52,7 @@ An interactive software studio website designed as a mission-control interface, 
 
 ---
 
-### 🔌 [Navigator — MikroTik Router Manager](https://github.com/mashfiq-rayhan/navigator-mvp)
+### 📡 [Navigator — MikroTik Router Manager](https://github.com/mashfiq-rayhan/navigator-mvp)
 
 A full-stack HotSpot management system designed to manage MikroTik routers through a modern web application.
 
@@ -115,7 +115,7 @@ A developer toolkit for interacting with MikroTik routers through API integratio
 
 ---
 
-### 📝 [Memories-App — Full-stack social application](https://github.com/mashfiq-rayhan/Memories-App)
+### 📸 [Memories-App — Full-stack social application](https://github.com/mashfiq-rayhan/Memories-App)
 
 A MERN application for creating, sharing, liking and managing memorable posts.
 
