@@ -35,14 +35,14 @@ A research workflow platform for document processing, thematic analysis, report 
  
  ---
 
-### 🛰️ [Flex Engineers — A Software Studio’s Mission Control, rendered with HUD/3D visuals](https://flex-engineers.vercel.app/)
+### 🛰️ [Flex Engineers — A Software Studio’s Mission Control](https://flex-engineers.vercel.app/)
 
-A research workflow platform for document processing, thematic analysis, report management and AI-assisted qualitative research.
+An interactive software studio website designed as a mission-control experience, combining immersive UI, 3D elements, motion design, and modern frontend engineering to showcase a software engineering team.
 
-**Stack:** Next.js · React · TypeScript · Node.js · PostgreSQL · Prisma · AI/LLM APIs
+**Stack:** Next.js · React · TypeScript · Tailwind CSS · Framer Motion · React Three Fiber
 
-  -  🌐 Live : https://infosys-cs.vercel.app/  
-  -  ↗ GitHub : https://github.com/mashfiq-rayhan/InfoSysCs-App 
+* 🌐 Live : https://flex-engineers.vercel.app/
+* ↗ GitHub : https://github.com/mashfiq-rayhan/FlexEngineers-case-study
 
 ---
 
