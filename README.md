@@ -220,12 +220,12 @@ Creating interfaces that balance visual quality, interaction, accessibility and 
 
 |                                  |
 | :------------------------------: |
-|      🤖 AI-Native Products       |
-|        🧠 Agentic Systems        |
-|    ⚡ Real-Time Applications     |
-| 🏗️ Scalable Backend Architecture |
-|    🔁 Intelligent Automation     |
-|    🛠️ Developer Productivity     |
+|      `🤖 AI-Native Products`       |
+|        `🧠 Agentic Systems`        |
+|    `⚡ Real-Time Applications`     |
+| `🏗️ Scalable Backend Architecture` |
+|    `🔁 Intelligent Automation`     |
+|    `🛠️ Developer Productivity`     |
 |                                  |
 
 ---
