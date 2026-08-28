@@ -154,7 +154,7 @@ A MERN application for creating, sharing, liking and managing memorable posts.
 ---
 
 <div>
-<div align="center">
+<div>
   <h2>📈 Engineering Impact</h2>
   <p><em>I focus on turning complex requirements into <strong>reliable, scalable and measurable software systems</strong>.</em></p>
 </div>
