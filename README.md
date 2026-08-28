@@ -214,8 +214,6 @@ Creating interfaces that balance visual quality, interaction, accessibility and 
 
 ## 🔭 Currently Exploring
 
-|       Currently Exploring        |
-| :------------------------------: |
 |      🤖 AI-Native Products       |
 |        🧠 Agentic Systems        |
 |    ⚡ Real-Time Applications     |
