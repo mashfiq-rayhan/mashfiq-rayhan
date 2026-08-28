@@ -127,33 +127,33 @@ My work spans the full stack — from polished React/Next.js interfaces to APIs,
 
 ## 🧠 What I Build
 
-- **`Full-stack web applications`**
+- `Full-stack web applications`
 - `SaaS platforms`
-- **REST APIs & backend systems**
-- **AI/LLM-powered applications**
-- **Real-time & streaming applications**
-- **Third-party API integrations**
-- **Infrastructure & network integrations**
-- **Performance-focused interfaces**
-- **Scalable database-backed systems**
+- `REST APIs & backend systems`
+- `AI/LLM-powered applications`
+- `Real-time & streaming applications`
+- `Third-party API integrations`
+- `Infrastructure & network integrations`
+- `Performance-focused interfaces`
+- `Scalable database-backed systems`
 
 ---
 
 ## 🛠️ Core Stack
 
-**Languages:** TypeScript · JavaScript · Python
+**Languages:** `TypeScript` · `JavaScript` · `Python`
 
-**Frontend:** React · Next.js · React Native · Expo · Tailwind CSS
+**Frontend:** `React` · `Next.js` · `React Native` · `Expo` · `Tailwind CSS`
 
-**Backend:** Node.js · Express.js · REST APIs
+**Backend:** `Node.js` · `Express.js` · `REST APIs`
 
-**Databases:** PostgreSQL · MongoDB · MySQL
+**Databases:** `PostgreSQL` · `MongoDB` · `MySQL`
 
-**ORM / Data:** Prisma · Sequelize · Mongoose
+**ORM / Data:** `Prisma` · `Sequelize` · `Mongoose`
 
-**AI:** LLM APIs · Multimodal AI · AI Application Workflows
+**AI:** LLM APIs · `Multimodal AI` · `AI Application Workflows`
 
-**Infrastructure & Tools:** Docker · Git · GitHub · CI/CD
+**Infrastructure & Tools:** `Docker` · `Git` · `GitHub` · `CI/CD`
 
 ---
 
