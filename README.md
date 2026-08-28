@@ -30,7 +30,7 @@ My work spans the full stack — from polished React/Next.js interfaces to APIs,
 
 ### 🔬 [InfoSysCS — AI-powered qualitative research assistant](https://infosys-cs.vercel.app/)
 
-A research workflow platform for document processing, thematic analysis, report management and AI-assisted qualitative research.
+`A research workflow platform for document processing, thematic analysis, report management and AI-assisted qualitative research.`
 
 **Stack:** Next.js · React · TypeScript · Node.js · PostgreSQL · Prisma · AI/LLM APIs
 
