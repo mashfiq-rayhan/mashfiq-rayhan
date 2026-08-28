@@ -175,39 +175,39 @@ I focus on turning complex requirements into **reliable, scalable and measurable
 > _Exploring the intersection of intelligent software, scalable systems and exceptional product experiences._
 
 <div align="center">
-  <h2>🤖 AI & Intelligent Systems</h2>
-  <div><code>LLM Applications</code> · <code>AI Workflows</code> · <code>Multimodal AI</code> · <code>AI Agents</code></div>
-  <sub>Building AI-native products where intelligence is embedded directly into the workflow — not simply added as an API feature.</sub>
+  <font color="#5187a1"><h2>🤖 AI & Intelligent Systems</h2></font>
+  <div><big><font color="#0390d6"><code>LLM Applications</code> · <code>AI Workflows</code> · <code>Multimodal AI</code> · <code>AI Agents</code></font></big></div>
+  <p><font color="#949494">Building AI-native products where intelligence is embedded directly into the workflow — not simply added as an API feature.</font></p>
 </div>
 
 <div align="center">
-  <h2>🏗️ System Architecture & Scalability</h2>
-  <div><code>System Design</code> · <code>API Architecture</code> · <code>Distributed Systems</code> · <code>Scalability</code></div>
-  <sub>Designing maintainable systems that can evolve with growing users, data and product complexity.</sub>
+  <font color="#5187a1"><h2>🏗️ System Architecture & Scalability</h2></font>
+  <div><big><font color="#0390d6"><code>System Design</code> · <code>API Architecture</code> · <code>Distributed Systems</code> · <code>Scalability</code></font></big></div>
+  <p><font color="#949494">Designing maintainable systems that can evolve with growing users, data and product complexity.</font></p>
 </div>
 
 <div align="center">
-  <h2>🚀 SaaS & Product Engineering</h2>
-  <div><code>SaaS</code> · <code>Automation</code> · <code>Multi-Tenant Systems</code> · <code>Product Engineering</code></div>
-  <sub>Turning ideas and business requirements into reliable, production-ready products that solve real problems.</sub>
+  <font color="#5187a1"><h2>🚀 SaaS & Product Engineering</h2></font>
+  <div><big><font color="#0390d6"><code>SaaS</code> · <code>Automation</code> · <code>Multi-Tenant Systems</code> · <code>Product Engineering</code></font></big></div>
+  <p><font color="#949494">Turning ideas and business requirements into reliable, production-ready products that solve real problems.</font></p>
 </div>
 
 <div align="center">
-  <h2>⚡ Performance & Reliability</h2>
-  <div><code>Web Performance</code> · <code>Optimization</code> · <code>Reliability</code> · <code>Developer Experience</code></div>
-  <sub>Improving speed, efficiency, resilience and the overall experience of both users and developers.</sub>
+  <font color="#5187a1"><h2>⚡ Performance & Reliability</h2></font>
+  <div><big><font color="#0390d6"><code>Web Performance</code> · <code>Optimization</code> · <code>Reliability</code> · <code>Developer Experience</code></font></big></div>
+  <p><font color="#949494">Improving speed, efficiency, resilience and the overall experience of both users and developers.</font></p>
 </div>
 
 <div align="center">
-  <h2>🔌 Infrastructure & Integrations</h2>
-  <div><code>Infrastructure APIs</code> · <code>Network Systems</code> · <code>Automation</code> · <code>Third-Party Integrations</code></div>
-  <sub>Connecting modern applications with infrastructure, external services and real-world systems.</sub>
+  <font color="#5187a1"><h2>🔌 Infrastructure & Integrations</h2></font>
+  <div><big><font color="#0390d6"><code>Infrastructure APIs</code> · <code>Network Systems</code> · <code>Automation</code> · <code>Third-Party Integrations</code></font></big></div>
+  <p><font color="#949494">Connecting modern applications with infrastructure, external services and real-world systems.</font></p>
 </div>
 
 <div align="center">
-  <h2>🎨 Frontend & Experience Engineering</h2>
-  <div><code>React</code> · <code>Next.js</code> · <code>UX Engineering</code> · <code>Interactive Interfaces</code></div>
-  <sub>Creating interfaces that balance visual quality, interaction, accessibility and engineering performance.</sub>
+  <font color="#5187a1"><h2>🎨 Frontend & Experience Engineering</h2></font>
+  <div><big><font color="#0390d6"><code>React</code> · <code>Next.js</code> · <code>UX Engineering</code> · <code>Interactive Interfaces</code></font></big></div>
+  <p><font color="#949494">Creating interfaces that balance visual quality, interaction, accessibility and engineering performance.</font></p>
 </div>
 
 ### 🔭 Currently Exploring
