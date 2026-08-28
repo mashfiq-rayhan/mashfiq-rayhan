@@ -4,7 +4,10 @@
 
 I build production-oriented `web applications`, `SaaS platforms`, `backend & frontend systems` and `AI-powered products`.
 
-My work spans the full stack — from polished React/Next.js interfaces to APIs, databases, third-party integrations, infrastructure and AI-powered workflows.
+My work spans the full stack — 
+      from polished React/Next.js interfaces 
+            to APIs, databases, third-party integrations, infrastructure and 
+                    AI-powered workflows.
 
 **5+ years of software engineering experience** building and shipping real-world products.
 
