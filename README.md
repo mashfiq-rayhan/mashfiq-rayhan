@@ -174,74 +174,40 @@ I focus on turning complex requirements into **reliable, scalable and measurable
 
 > _Exploring the intersection of intelligent software, scalable systems and exceptional product experiences._
 
-<div>
-<table align="center" width="100%" cellpadding="0" cellspacing="0" style="display: table; width: 100%; table-layout: fixed;">
-  <tr height="180">
-    <td align="center" width="100%" height="180" valign="middle"><div align="center" style="display: flex; min-height: 180px; flex-direction: column; justify-content: center; align-items: center;">
-      <h2>🤖 AI & Intelligent Systems</h2>
-      <div align="center"><code>LLM Applications</code> · <code>AI Workflows</code> · <code>Multimodal AI</code> · <code>AI Agents</code></div>
-      <br/>
-      <sub style="font-size: 0.95em;">Building AI-native products where intelligence is embedded directly into the workflow — not simply added as an API feature.</sub>
-      <br/>
-      <br/>
-    </div></td>
-  </tr>
+<div align="center">
+  <h2>🤖 AI & Intelligent Systems</h2>
+  <div><code>LLM Applications</code> · <code>AI Workflows</code> · <code>Multimodal AI</code> · <code>AI Agents</code></div>
+  <sub>Building AI-native products where intelligence is embedded directly into the workflow — not simply added as an API feature.</sub>
+</div>
 
-  <tr height="180">
-    <td align="center" height="180" valign="middle"><div align="center" style="display: flex; min-height: 180px; flex-direction: column; justify-content: center; align-items: center;">
-      <h2>🏗️ System Architecture & Scalability</h2>
-      <div align="center"><code>System Design</code> · <code>API Architecture</code> · <code>Distributed Systems</code> · <code>Scalability</code></div>
-      <br/>
-      <sub style="font-size: 0.95em;">Designing maintainable systems that can evolve with growing users, data and product complexity.</sub>
-      <br/>
-      <br/>
-    </div></td>
-  </tr>
+<div align="center">
+  <h2>🏗️ System Architecture & Scalability</h2>
+  <div><code>System Design</code> · <code>API Architecture</code> · <code>Distributed Systems</code> · <code>Scalability</code></div>
+  <sub>Designing maintainable systems that can evolve with growing users, data and product complexity.</sub>
+</div>
 
-  <tr height="180">
-    <td align="center" height="180" valign="middle"><div align="center" style="display: flex; min-height: 180px; flex-direction: column; justify-content: center; align-items: center;">
-      <h2>🚀 SaaS & Product Engineering</h2>
-      <div align="center"><code>SaaS</code> · <code>Automation</code> · <code>Multi-Tenant Systems</code> · <code>Product Engineering</code></div>
-      <br/>
-      <sub style="font-size: 0.95em;">Turning ideas and business requirements into reliable, production-ready products that solve real problems.</sub>
-      <br/>
-      <br/>
-    </div></td>
-  </tr>
+<div align="center">
+  <h2>🚀 SaaS & Product Engineering</h2>
+  <div><code>SaaS</code> · <code>Automation</code> · <code>Multi-Tenant Systems</code> · <code>Product Engineering</code></div>
+  <sub>Turning ideas and business requirements into reliable, production-ready products that solve real problems.</sub>
+</div>
 
-  <tr height="180">
-    <td align="center" height="180" valign="middle"><div align="center" style="display: flex; min-height: 180px; flex-direction: column; justify-content: center; align-items: center;">
-      <h2>⚡ Performance & Reliability</h2>
-      <div align="center"><code>Web Performance</code> · <code>Optimization</code> · <code>Reliability</code> · <code>Developer Experience</code></div>
-      <br/>
-      <sub style="font-size: 0.95em;">Improving speed, efficiency, resilience and the overall experience of both users and developers.</sub>
-      <br/>
-      <br/>
-    </div></td>
-  </tr>
+<div align="center">
+  <h2>⚡ Performance & Reliability</h2>
+  <div><code>Web Performance</code> · <code>Optimization</code> · <code>Reliability</code> · <code>Developer Experience</code></div>
+  <sub>Improving speed, efficiency, resilience and the overall experience of both users and developers.</sub>
+</div>
 
-  <tr height="180">
-    <td align="center" height="180" valign="middle"><div align="center" style="display: flex; min-height: 180px; flex-direction: column; justify-content: center; align-items: center;">
-      <h2>🔌 Infrastructure & Integrations</h2>
-      <div align="center"><code>Infrastructure APIs</code> · <code>Network Systems</code> · <code>Automation</code> · <code>Third-Party Integrations</code></div>
-      <br/>
-      <sub style="font-size: 0.95em;">Connecting modern applications with infrastructure, external services and real-world systems.</sub>
-      <br/>
-      <br/>
-    </div></td>
-  </tr>
+<div align="center">
+  <h2>🔌 Infrastructure & Integrations</h2>
+  <div><code>Infrastructure APIs</code> · <code>Network Systems</code> · <code>Automation</code> · <code>Third-Party Integrations</code></div>
+  <sub>Connecting modern applications with infrastructure, external services and real-world systems.</sub>
+</div>
 
-  <tr height="180">
-    <td align="center" height="180" valign="middle"><div align="center" style="display: flex; min-height: 180px; flex-direction: column; justify-content: center; align-items: center;">
-      <h2>🎨 Frontend & Experience Engineering</h2>
-      <div align="center"><code>React</code> · <code>Next.js</code> · <code>UX Engineering</code> · <code>Interactive Interfaces</code></div>
-      <br/>
-      <sub style="font-size: 0.95em;">Creating interfaces that balance visual quality, interaction, accessibility and engineering performance.</sub>
-      <br/>
-      <br/>
-    </div></td>
-  </tr>
-</table>
+<div align="center">
+  <h2>🎨 Frontend & Experience Engineering</h2>
+  <div><code>React</code> · <code>Next.js</code> · <code>UX Engineering</code> · <code>Interactive Interfaces</code></div>
+  <sub>Creating interfaces that balance visual quality, interaction, accessibility and engineering performance.</sub>
 </div>
 
 ### 🔭 Currently Exploring
