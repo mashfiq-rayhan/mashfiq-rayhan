@@ -153,9 +153,11 @@ A MERN application for creating, sharing, liking and managing memorable posts.
 
 ---
 
-## 📈 Engineering Impact
-
-I focus on turning complex requirements into **reliable, scalable and measurable software systems**.
+<blockquote>
+<div align="center">
+  <h2>📈 Engineering Impact</h2>
+  <p><em>I focus on turning complex requirements into <strong>reliable, scalable and measurable software systems</strong>.</em></p>
+</div>
 
 - 📉 **50% reduction in operational overhead** by building and automating workflows for a MikroTik-based HotSpot management platform.
 - ⚡ **30% improvement in UI performance** through frontend optimization, rendering improvements and more efficient client-side workflows.
@@ -165,6 +167,9 @@ I focus on turning complex requirements into **reliable, scalable and measurable
 - 🔌 **Infrastructure integration** connecting modern web applications with MikroTik RouterOS and network-management workflows.
 - 🏗️ Experience building **SaaS platforms, real-time interfaces, REST APIs and database-backed systems** designed for real-world usage.
 - 🧩 Strong focus on **maintainable architecture, reusable components, developer experience, performance and scalability**.
+
+> **I don't just build features — I build systems that solve problems and create measurable impact.**
+</blockquote>
 
 ---
 
