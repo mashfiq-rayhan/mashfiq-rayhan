@@ -23,7 +23,8 @@ Analyze audio recordings with AI and receive structured insights through a real-
 **Stack:** Next.js · React · TypeScript · Gemini · Streaming APIs · Audio Processing
 
 - 🌐 Live : https://trackpulse-ai.vercel.app/
-- ↗ GitHub : https://github.com/mashfiq-rayhan/TrackPulse
+- ↗ GitHub : https://github.com/mashfiq-rayhan/TrackPulse (private)
+- ↗ Case Study : https://github.com/mashfiq-rayhan/TrackPulse-case-study
 
 ---
 
@@ -38,14 +39,16 @@ A research workflow platform for document processing, thematic analysis, report 
 
 ---
 
-### 🛰️ [Flex Engineers — AI-powered qualitative research assistant](https://flex-engineers.vercel.app/)
+### 🛰️ [Flex Engineers — Software Studio Mission Control](https://flex-engineers.vercel.app/)
 
-A research workflow platform for document processing, thematic analysis, report management and AI-assisted qualitative research.
+An interactive software studio website designed as a mission-control interface, showcasing services, selected projects, engineering capabilities, and a modern product-focused digital experience.
 
-**Stack:** Next.js · React · TypeScript · Node.js · PostgreSQL · Prisma · AI/LLM APIs
+**Stack:** Next.js · React · TypeScript · Tailwind CSS · Framer Motion · React Three Fiber
 
-- 🌐 Live : https://infosys-cs.vercel.app/
-- ↗ GitHub : https://github.com/mashfiq-rayhan/InfoSysCs-App
+- 🌐 Live : https://flex-engineers.vercel.app/
+- ↗ GitHub : https://github.com/mashfiq-rayhan/flex-engineers (private)
+- ↗ Case Study : https://github.com/mashfiq-rayhan/FlexEngineers-case-study
+
 
 ---
 
@@ -55,7 +58,7 @@ A full-stack HotSpot management system designed to manage MikroTik routers throu
 
 **Stack:** Next.js · React · TypeScript · Node.js · Express · PostgreSQL · MikroTik RouterOS
 
-- ↗ **GitHub:** https://github.com/mashfiq-rayhan/navigator-mvp
+- ↗ GitHub: https://github.com/mashfiq-rayhan/navigator-mvp
 
 ---
 
@@ -65,8 +68,9 @@ A modern web platform focused on media management, content presentation and stre
 
 **Stack:** Next.js · React · TypeScript · Tailwind CSS
 
-- 🌐 **Live:** https://mediaking-llc.vercel.app/
-- ↗ **GitHub:** https://github.com/mashfiq-rayhan/media-king
+- 🌐 Live: https://mediaking-llc.vercel.app/
+- ↗ GitHub: https://github.com/mashfiq-rayhan/media-king (private)
+- ↗ GitHub: https://github.com/mashfiq-rayhan/MediaKing-case-study
 
 ---
 
@@ -76,8 +80,8 @@ A modular, modern Company Web APP designed for Web3, blockchain and dApp-focused
 
 **Stack:** Next.js · React · TypeScript · Tailwind CSS · Framer Motion
 
-- 🌐 **Live:** https://apex-dv.vercel.app/
-- ↗ **GitHub:** https://github.com/mashfiq-rayhan/ApexDV
+- 🌐 Live: https://apex-dv.vercel.app/
+- ↗ GitHub: https://github.com/mashfiq-rayhan/ApexDV
 
 ---
 
@@ -87,7 +91,7 @@ A modern SaaS platform designed to help businesses digitize and streamline their
 
 **Stack:** Next.js · React · TypeScript · Node.js · PostgreSQL
 
-- ↗ **GitHub:** https://github.com/mashfiq-rayhan/Quadro-App
+- ↗ GitHub: https://github.com/mashfiq-rayhan/Quadro-App
 
 ---
 
@@ -97,7 +101,7 @@ A web-based movie discovery and streaming experience powered by the TMDB API.
 
 **Stack:** React · JavaScript · TMDB API · REST APIs
 
-- ↗ **GitHub:** https://github.com/mashfiq-rayhan/CinePlex.live
+- ↗ GitHub: https://github.com/mashfiq-rayhan/CinePlex.live
 
 ---
 
@@ -107,7 +111,7 @@ A developer toolkit for interacting with MikroTik routers through API integratio
 
 **Stack:** Node.js · JavaScript · MikroTik API · RADIUS
 
-- ↗ **GitHub:** https://github.com/mashfiq-rayhan/Mikronode
+- ↗ GitHub: https://github.com/mashfiq-rayhan/Mikronode
 
 ---
 
@@ -117,7 +121,7 @@ A MERN application for creating, sharing, liking and managing memorable posts.
 
 **Stack:** React · Node.js · Express.js · MongoDB
 
-- ↗ **GitHub:** https://github.com/mashfiq-rayhan/Memories-App
+- ↗ GitHub: https://github.com/mashfiq-rayhan/Memories-App
 
 ---
 
