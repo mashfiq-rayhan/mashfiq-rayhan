@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Mashfiq Rayhan Ovi
+# 👋 Hey, I'm Mashfiq Rayhan Ovi
 
 ### Full-Stack Software Engineer · AI · SaaS · Scalable Web Systems
 
