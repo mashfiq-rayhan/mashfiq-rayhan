@@ -21,7 +21,7 @@ Analyze audio recordings with AI and receive structured insights through a real-
 
   -  🌐 Live : https://trackpulse-ai.vercel.app/  
   -  ↗ GitHub : https://github.com/mashfiq-rayhan/TrackPulse (private)
-  -  ↗ Case Study : [https://github.com/mashfiq-rayhan/TrackPulse (private)](https://github.com/mashfiq-rayhan/TrackPulse-case-stud)
+  -  ↗ Case Study : [https://github.com/mashfiq-rayhan/TrackPulse-case-study](https://github.com/mashfiq-rayhan/TrackPulse-case-study)
 
 ---
 
@@ -44,7 +44,7 @@ An interactive software studio website designed as a mission-control experience,
 
   -  🌐 Live : https://flex-engineers.vercel.app/
   -  ↗ GitHub : https://github.com/mashfiq-rayhan/FlexEngineers-case-study (private)
-  -  ↗ Case Study : [https://github.com/mashfiq-rayhan/FlexEngineers-case-study (private)](https://github.com/mashfiq-rayhan/FlexEngineers-case-study)
+  -  ↗ Case Study : [https://github.com/mashfiq-rayhan/FlexEngineers-case-study](https://github.com/mashfiq-rayhan/FlexEngineers-case-study)
 
 ---
 
@@ -58,7 +58,7 @@ A full-stack HotSpot management system designed to manage MikroTik routers throu
 
 ---
 
-### 🎬 [MediaKing — Media management & streaming platform](https://github.com/mashfiq-rayhan/media-king)
+### 🎬 [MediaKing — Media management & streaming platform](https://mediaking-llc.vercel.app/)
 
 A modern web platform focused on media management, content presentation and streaming-oriented experiences.
 
@@ -66,7 +66,7 @@ A modern web platform focused on media management, content presentation and stre
 
   -  🌐 **Live:** https://mediaking-llc.vercel.app/
   -  ↗ **GitHub:** https://github.com/mashfiq-rayhan/media-king (private)
-  -  ↗ **Case Study:** [https://github.com/mashfiq-rayhan/media-king (private)](https://github.com/mashfiq-rayhan/MediaKing-case-study)
+  -  ↗ **Case Study:** [https://github.com/mashfiq-rayhan/FlexEngineers-case-study](https://github.com/mashfiq-rayhan/MediaKing-case-study)
 
 ---
 
