@@ -170,9 +170,10 @@ I focus on turning complex requirements into **reliable, scalable and measurable
 
 ---
 
-## 💡 Engineering Interests
-
-> _Exploring the intersection of intelligent software, scalable systems and exceptional product experiences._
+<div align="center">
+  <h2>💡 Engineering Interests</h2>
+  <blockquote><em>Exploring the intersection of intelligent software, scalable systems and exceptional product experiences.</em></blockquote>
+</div>
 
 <div align="center">
   <font color="#5187a1"><h2>🤖 AI & Intelligent Systems</h2></font>
@@ -245,10 +246,20 @@ I focus on turning complex requirements into **reliable, scalable and measurable
 
 <br/>
 
-## 📫 Connect with Me
+<div align="center">
+  <h2>📫 Connect with Me</h2>
 
-> [![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://mashfiq-rayhan-ovi.vercel.app/) | [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mashfiq-rayhan/) | [![Upwork](https://img.shields.io/badge/-Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/mashfiqrayhan) | [![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mashfiq-rayhan) | [![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mashfiq.rayhan.ovi@gmail.com)
+  <p>
+    <a href="https://mashfiq-rayhan-ovi.vercel.app/"><img src="https://img.shields.io/badge/-Website-000000?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
+    <a href="https://www.linkedin.com/in/mashfiq-rayhan/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.upwork.com/freelancers/mashfiqrayhan"><img src="https://img.shields.io/badge/-Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white" alt="Upwork" /></a>
+    <a href="https://github.com/mashfiq-rayhan"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="mailto:mashfiq.rayhan.ovi@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+</div>
 
 ---
 
-> **Building useful software, solving difficult problems and turning ideas into working products.**
+<div align="center">
+  <blockquote><strong>Building useful software, solving difficult problems and turning ideas into working products.</strong></blockquote>
+</div>
