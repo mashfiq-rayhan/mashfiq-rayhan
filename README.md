@@ -8,10 +8,8 @@ My work spans the full stack — from polished React/Next.js interfaces to APIs,
 
 **5+ years of software engineering experience** building and shipping real-world products.
 
-> Have A Look at My Website : [https://mashfiq-rayhan-ovi.vercel.app/](https://mashfiq-rayhan-ovi.vercel.app/)
-
 ---
-> Have a look at My Website : https://mashfiq-rayhan-ovi.vercel.app/
+> Have A Look at My Website : [https://mashfiq-rayhan-ovi.vercel.app/](https://mashfiq-rayhan-ovi.vercel.app/)
 ---
 
 ## 🚀 Featured Projects
