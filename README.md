@@ -8,6 +8,7 @@ My work spans the full stack — from polished React/Next.js interfaces to APIs,
 
 **5+ years of software engineering experience** building and shipping real-world products.
 
+> [Have A Look at My Website : https://mashfiq-rayhan-ovi.vercel.app/](https://mashfiq-rayhan-ovi.vercel.app/))
 ---
 > Have a look at My Website : https://mashfiq-rayhan-ovi.vercel.app/
 ---
@@ -20,7 +21,8 @@ Analyze audio recordings with AI and receive structured insights through a real-
 **Stack:** Next.js · React · TypeScript · Gemini · Streaming APIs · Audio Processing
 
   -  🌐 Live : https://trackpulse-ai.vercel.app/  
-  -  ↗ GitHub : https://github.com/mashfiq-rayhan/TrackPulse  
+  -  ↗ GitHub : https://github.com/mashfiq-rayhan/TrackPulse (private)
+  -  ↗ Case Study : [https://github.com/mashfiq-rayhan/TrackPulse (private)](https://github.com/mashfiq-rayhan/TrackPulse-case-stud)
 
 ---
 
@@ -41,8 +43,9 @@ An interactive software studio website designed as a mission-control experience,
 
 **Stack:** Next.js · React · TypeScript · Tailwind CSS · Framer Motion · React Three Fiber
 
-* 🌐 Live : https://flex-engineers.vercel.app/
-* ↗ GitHub : https://github.com/mashfiq-rayhan/FlexEngineers-case-study
+  -  🌐 Live : https://flex-engineers.vercel.app/
+  -  ↗ GitHub : https://github.com/mashfiq-rayhan/FlexEngineers-case-study (private)
+  -  ↗ Case Study : [https://github.com/mashfiq-rayhan/FlexEngineers-case-study (private)](https://github.com/mashfiq-rayhan/FlexEngineers-case-study)
 
 ---
 
@@ -52,7 +55,7 @@ A full-stack HotSpot management system designed to manage MikroTik routers throu
 
 **Stack:** Next.js · React · TypeScript · Node.js · Express · PostgreSQL · MikroTik RouterOS
 
-* ↗ **GitHub:** https://github.com/mashfiq-rayhan/navigator-mvp
+  -  ↗ **GitHub:** https://github.com/mashfiq-rayhan/navigator-mvp
 
 ---
 
@@ -62,8 +65,9 @@ A modern web platform focused on media management, content presentation and stre
 
 **Stack:** Next.js · React · TypeScript · Tailwind CSS
 
-* 🌐 **Live:** https://mediaking-llc.vercel.app/
-* ↗ **GitHub:** https://github.com/mashfiq-rayhan/media-king
+  -  🌐 **Live:** https://mediaking-llc.vercel.app/
+  -  ↗ **GitHub:** https://github.com/mashfiq-rayhan/media-king (private)
+  -  ↗ **Case Study:** [https://github.com/mashfiq-rayhan/media-king (private)](https://github.com/mashfiq-rayhan/MediaKing-case-study)
 
 ---
 
