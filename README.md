@@ -230,7 +230,7 @@ Creating interfaces that balance visual quality, interaction, accessibility and 
 
 ---
 
-## ⚙️ Build → Measure → Learn → Improve
+## ⚙️ `Build` → `Measure` → `Learn` → `Improve`
 
 _Exploring new technologies, challenging assumptions and turning ideas into reliable software._
 
