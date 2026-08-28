@@ -18,7 +18,7 @@ My work spans the full stack — from polished React/Next.js interfaces to APIs,
 
 ### 🎼 [TrackPulse — AI-powered audio intelligence platform](https://trackpulse-ai.vercel.app/)
 
-Analyze audio recordings with AI and receive structured insights through a real-time streaming interface.
+#### `Analyze audio recordings with AI and receive structured insights through a real-time streaming interface.`
 
 **Stack:** Next.js · React · TypeScript · Gemini · Streaming APIs · Audio Processing
 
