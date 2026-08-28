@@ -2,7 +2,7 @@
 
 > ### `Full-Stack Software Engineer · AI · SaaS · Scalable Web Systems`
 
-I build `production-oriented` `web applications`, `SaaS platforms`, `backend systems` and `AI-powered products`.
+I build production-oriented `web applications`, `SaaS platforms`, `backend & frontend systems` and `AI-powered products`.
 
 My work spans the full stack — from polished React/Next.js interfaces to APIs, databases, third-party integrations, infrastructure and AI-powered workflows.
 
