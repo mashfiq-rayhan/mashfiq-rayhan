@@ -173,10 +173,10 @@ I focus on turning complex requirements into `reliable`, `scalable` and `measura
 > **I don't just build features — I build systems that solve problems and create measurable impact.**
 
 ---
-
+<blockquote>
 <div align="center">
   <h2>💡 Engineering Interests</h2>
-  <p><em>Exploring the intersection of intelligent software, scalable systems and exceptional product experiences.</em></p>
+  <code><em>Exploring the intersection of intelligent software, scalable systems and exceptional product experiences.</em></code>
 </div>
 
 <div align="center">
@@ -214,6 +214,7 @@ I focus on turning complex requirements into `reliable`, `scalable` and `measura
   <div><big><font color="#0390d6"><code>React</code> · <code>Next.js</code> · <code>UX Engineering</code> · <code>Interactive Interfaces</code></font></big></div>
   <p><font color="#949494">Creating interfaces that balance visual quality, interaction, accessibility and engineering performance.</font></p>
 </div>
+</blockquote>
 
 ---
 
