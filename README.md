@@ -174,79 +174,101 @@ I focus on turning complex requirements into `reliable`, `scalable` and `measura
 
 ---
 
-## 💡 Engineering Interests
+<div align="center">
+  <h2>💡 Engineering Interests</h2>
+  <p><em>Exploring the intersection of intelligent software, scalable systems and exceptional product experiences.</em></p>
+</div>
 
-_Exploring the intersection of intelligent software, scalable systems and exceptional product experiences._
+<div align="center">
+  <font color="#5187a1"><h2>🤖 AI & Intelligent Systems</h2></font>
+  <div><big><font color="#0390d6"><code>LLM Applications</code> · <code>AI Workflows</code> · <code>Multimodal AI</code> · <code>AI Agents</code></font></big></div>
+  <p><font color="#949494">Building AI-native products where intelligence is embedded directly into the workflow — not simply added as an API feature.</font></p>
+</div>
 
-### 🤖 AI & Intelligent Systems
+<div align="center">
+  <font color="#5187a1"><h2>🏗️ System Architecture & Scalability</h2></font>
+  <div><big><font color="#0390d6"><code>System Design</code> · <code>API Architecture</code> · <code>Distributed Systems</code> · <code>Scalability</code></font></big></div>
+  <p><font color="#949494">Designing maintainable systems that can evolve with growing users, data and product complexity.</font></p>
+</div>
 
-`LLM Applications` · `AI Workflows` · `Multimodal AI` · `AI Agents`
+<div align="center">
+  <font color="#5187a1"><h2>🚀 SaaS & Product Engineering</h2></font>
+  <div><big><font color="#0390d6"><code>SaaS</code> · <code>Automation</code> · <code>Multi-Tenant Systems</code> · <code>Product Engineering</code></font></big></div>
+  <p><font color="#949494">Turning ideas and business requirements into reliable, production-ready products that solve real problems.</font></p>
+</div>
 
-Building AI-native products where intelligence is embedded directly into the workflow — not simply added as an API feature.
+<div align="center">
+  <font color="#5187a1"><h2>⚡ Performance & Reliability</h2></font>
+  <div><big><font color="#0390d6"><code>Web Performance</code> · <code>Optimization</code> · <code>Reliability</code> · <code>Developer Experience</code></font></big></div>
+  <p><font color="#949494">Improving speed, efficiency, resilience and the overall experience of both users and developers.</font></p>
+</div>
 
-### 🏗️ System Architecture & Scalability
+<div align="center">
+  <font color="#5187a1"><h2>🔌 Infrastructure & Integrations</h2></font>
+  <div><big><font color="#0390d6"><code>Infrastructure APIs</code> · <code>Network Systems</code> · <code>Automation</code> · <code>Third-Party Integrations</code></font></big></div>
+  <p><font color="#949494">Connecting modern applications with infrastructure, external services and real-world systems.</font></p>
+</div>
 
-`System Design` · `API Architecture` · `Distributed Systems` · `Scalability`
-
-Designing maintainable systems that can evolve with growing users, data and product complexity.
-
-### 🚀 SaaS & Product Engineering
-
-`SaaS` · `Automation` · `Multi-Tenant Systems` · `Product Engineering`
-
-Turning ideas and business requirements into reliable, production-ready products that solve real problems.
-
-### ⚡ Performance & Reliability
-
-`Web Performance` · `Optimization` · `Reliability` · `Developer Experience`
-
-Improving speed, efficiency, resilience and the overall experience of both users and developers.
-
-### 🔌 Infrastructure & Integrations
-
-`Infrastructure APIs` · `Network Systems` · `Automation` · `Third-Party Integrations`
-
-Connecting modern applications with infrastructure, external services and real-world systems.
-
-### 🎨 Frontend & Experience Engineering
-
-`React` · `Next.js` · `UX Engineering` · `Interactive Interfaces`
-
-Creating interfaces that balance visual quality, interaction, accessibility and engineering performance.
-
----
-
-## 🔭 Currently Exploring
-
-|                                  |
-| :------------------------------: |
-|      `🤖 AI-Native Products`       |
-|        `🧠 Agentic Systems`        |
-|    `⚡ Real-Time Applications`     |
-| `🏗️ Scalable Backend Architecture` |
-|    `🔁 Intelligent Automation`     |
-|    `🛠️ Developer Productivity`     |
-|                                  |
+<div align="center">
+  <font color="#5187a1"><h2>🎨 Frontend & Experience Engineering</h2></font>
+  <div><big><font color="#0390d6"><code>React</code> · <code>Next.js</code> · <code>UX Engineering</code> · <code>Interactive Interfaces</code></font></big></div>
+  <p><font color="#949494">Creating interfaces that balance visual quality, interaction, accessibility and engineering performance.</font></p>
+</div>
 
 ---
 
-## ⚙️ `Build` → `Measure` → `Learn` → `Improve`
+<blockquote align="center">
+  <h3>🔭 Currently Exploring</h3>
 
-_Exploring new technologies, challenging assumptions and turning ideas into reliable software._
-
-**Always learning. Always building. Always improving. 🚀**
+<table>
+  <tr>
+    <td align="center">
+      <strong>🤖 AI-Native Products</strong>
+    </td>
+    <td align="center">
+      <strong>🧠 Agentic Systems</strong>
+    </td>
+    <td align="center">
+      <strong>⚡ Real-Time Applications</strong>
+    </td>
+    <td align="center">
+      <strong>🏗️ Scalable Backend Architecture</strong>
+    </td>
+    <td align="center">
+      <strong>🔁 Intelligent Automation</strong>
+    </td>
+    <td align="center">
+      <strong>🛠️ Developer Productivity</strong>
+    </td>
+  </tr>
+</table>
+</blockquote>
 
 ---
 
-## 📫 Connect with Me
+<blockquote align="center">
+<h3>⚙️ Build → Measure → Learn → Improve</h3>
+  <p><em>Exploring new technologies, challenging assumptions and turning ideas into reliable software.</em></p>
+  <p><strong>Always learning. Always building. Always improving. 🚀</strong></p>
+</blockquote>
 
-[![Website](https://img.shields.io/badge/-Website-000000?style=flat-square&logo=google-chrome&logoColor=white)](https://mashfiq-rayhan-ovi.vercel.app/) 
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mashfiq-rayhan/) 
-[![GitHub](https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/mashfiq-rayhan) 
-[![Email](https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:mashfiq.rayhan.ovi@gmail.com) 
+---
+
+<blockquote align="center">
+
+  <h2>📫 Connect with Me</h2>
+
+  <p>
+    <a href="https://mashfiq-rayhan-ovi.vercel.app/"><img src="https://img.shields.io/badge/-Website-000000?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
+    <a href="https://www.linkedin.com/in/mashfiq-rayhan/"><img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+    <a href="https://www.upwork.com/freelancers/mashfiqrayhan"><img src="https://img.shields.io/badge/-Upwork-6fda44?style=flat-square&logo=upwork&logoColor=white" alt="Upwork" /></a>
+    <a href="https://github.com/mashfiq-rayhan"><img src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" /></a>
+    <a href="mailto:mashfiq.rayhan.ovi@gmail.com"><img src="https://img.shields.io/badge/-Email-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  </p>
+</blockquote>
 
 ---
 
-> **Building useful software, solving difficult problems and turning ideas into working products.**
-
----
+<blockquote align="center">
+  <strong>Building useful software, solving difficult problems and turning ideas into working products.</strong>
+</blockquote>
