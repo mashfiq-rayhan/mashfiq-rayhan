@@ -70,7 +70,7 @@ My work spans the full stack — from polished React/Next.js interfaces to APIs,
 
 - 🌐 Live: https://mediaking-llc.vercel.app/
 - ↗ GitHub: https://github.com/mashfiq-rayhan/media-king (private)
-- ↗ GitHub: https://github.com/mashfiq-rayhan/MediaKing-case-study
+- ↗ Case Study: https://github.com/mashfiq-rayhan/MediaKing-case-study
 
 ---
 
