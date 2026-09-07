@@ -58,7 +58,7 @@ My work spans the full stack — from polished React/Next.js interfaces to APIs,
 
 **Stack:** Next.js · React · TypeScript · Node.js · Express · PostgreSQL · MikroTik RouterOS
 
-- ↗ GitHub: https://github.com/mashfiq-rayhan/navigator-mvp
+- ↗ GitHub : https://github.com/mashfiq-rayhan/navigator-mvp
 
 ---
 
@@ -68,9 +68,9 @@ My work spans the full stack — from polished React/Next.js interfaces to APIs,
 
 **Stack:** Next.js · React · TypeScript · Tailwind CSS
 
-- 🌐 Live: https://mediaking-llc.vercel.app/
-- ↗ GitHub: https://github.com/mashfiq-rayhan/media-king (private)
-- ↗ Case Study: https://github.com/mashfiq-rayhan/MediaKing-case-study
+- 🌐 Live : https://mediaking-llc.vercel.app/
+- ↗ GitHub : https://github.com/mashfiq-rayhan/media-king (private)
+- ↗ Case Study : https://github.com/mashfiq-rayhan/MediaKing-case-study
 
 ---
 
@@ -80,8 +80,8 @@ My work spans the full stack — from polished React/Next.js interfaces to APIs,
 
 **Stack:** Next.js · React · TypeScript · Tailwind CSS · Framer Motion
 
-- 🌐 Live: https://apex-dv.vercel.app/
-- ↗ GitHub: https://github.com/mashfiq-rayhan/ApexDV
+- 🌐 Live : https://apex-dv.vercel.app/
+- ↗ GitHub : https://github.com/mashfiq-rayhan/ApexDV
 
 ---
 
@@ -91,7 +91,7 @@ My work spans the full stack — from polished React/Next.js interfaces to APIs,
 
 **Stack:** Next.js · React · TypeScript · Node.js · PostgreSQL
 
-- ↗ GitHub: https://github.com/mashfiq-rayhan/Quadro-App
+- ↗ GitHub : https://github.com/mashfiq-rayhan/Quadro-App
 
 ---
 
@@ -101,7 +101,7 @@ My work spans the full stack — from polished React/Next.js interfaces to APIs,
 
 **Stack:** React · JavaScript · TMDB API · REST APIs
 
-- ↗ GitHub: https://github.com/mashfiq-rayhan/CinePlex.live
+- ↗ GitHub : https://github.com/mashfiq-rayhan/CinePlex.live
 
 ---
 
@@ -111,7 +111,7 @@ My work spans the full stack — from polished React/Next.js interfaces to APIs,
 
 **Stack:** Node.js · JavaScript · MikroTik API · RADIUS
 
-- ↗ GitHub: https://github.com/mashfiq-rayhan/Mikronode
+- ↗ GitHub : https://github.com/mashfiq-rayhan/Mikronode
 
 ---
 
@@ -121,7 +121,7 @@ My work spans the full stack — from polished React/Next.js interfaces to APIs,
 
 **Stack:** React · Node.js · Express.js · MongoDB
 
-- ↗ GitHub: https://github.com/mashfiq-rayhan/Memories-App
+- ↗ GitHub : https://github.com/mashfiq-rayhan/Memories-App
 
 ---
 
